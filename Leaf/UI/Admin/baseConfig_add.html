@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+	<title>LeafCMS</title>
+	<link rel="stylesheet" type="text/css" href="Css/base.css" media="all" />
+</head>
+<body class="iframeBody">
+	<div id="baseconfig_add">
+	<div id="baseconfig_add">
+		<h3>添加配置</h3>
+		<table width="100%" class="table_form">
+		  <tbody><tr>
+			<th width="120">管理员邮箱</th>
+			<td>
+			<input type="text" value="phpcms@phpcms.cn" size="30" id="admin_email" name="setting[admin_email]" class="input-text">
+		   </td>
+		  </tr>
+		</tbody>
+		</table>
+		<table width="100%" class="table_form">
+		  <tbody><tr>
+			<th width="120">启用页面Gzip压缩</th>
+			<td class="select">
+			<input type="radio" checked="" value="1" name="setconfig[gzip]"> 是&nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="radio" value="0" name="setconfig[gzip]"> 否</td>
+		  </tr> 
+		  <tr>
+			<th width="120">开启附件状态统计</th>
+			<td class="select">
+			<input type="radio" checked="" value="1" name="setconfig[attachment_stat]"> 是&nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="radio" value="0" name="setconfig[attachment_stat]"> 否&nbsp;&nbsp;&nbsp;&nbsp;<font color="gray">记录附件使用状态 ，删除文章时同步删除附件。注意: 本功能会加重服务器负担</font></td>
+		  </tr> 	
+		  <tr>
+			<th width="120">JS路径</th>
+			<td><input type="text" size="50" id="js_path" class="input-text"><span id="js_pathTip" class="onShow"  placehoder="JS路径必须以'/'结尾">请输入JS路径</span></td>
+		  </tr>
+		  <tr>
+			<th width="120">CSS路径</th>
+			<td><input type="text"  size="50" id="css_path" class="input-text"><span id="css_pathTip" class="onShow" placehoder="CSS路径必须以'/'结尾">请输入CSS路径</span></td>
+		  </tr> 
+		  <tr>
+			<th width="120">图片路径</th>
+			<td><input type="text" size="50" id="img_path" class="input-text"><span id="img_pathTip" class="onShow" placehoder="图片路径必须以'/'结尾">请输入图片路径</span></td>
+		  </tr>
+		  <tr>
+			<th width="120">附件URL访问路径</th>
+			<td><input type="text" size="50" id="upload_url" class="input-text"><span id="upload_urlTip" class="onShow " placehoder="附件路径必须以'/'结尾">请输入附件URL访问路径</span></td>
+		  </tr>       
+		</tbody>
+		</table>
+		<div class="button">
+			<input type="submit" id="submit" value="提交" />
+		</div>
+	</div>
+	<script type="text/javascript" src="Js/Lib/jquery-1.6.1.min.js"></script>
+	<script type="text/javascript" src="Js/main.js"></script>
+</body>
+</html>

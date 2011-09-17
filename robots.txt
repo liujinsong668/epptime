@@ -1,0 +1,8 @@
+# A Robots file for LeafCMS 
+
+User-agent: *
+
+Disallow: /Admin/
+Disallow: /Kernel/
+Disallow: /Leaf/ 
+Disallow: /Install/ 

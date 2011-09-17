@@ -1,0 +1,46 @@
+<layout name="Public:header" cache="60" />
+<body class="iframeBody">
+	<div class="item_edit">
+		<h3>文章列表</h3>
+		<div class="line"></div>
+		<div id="categoryList">
+			<form>
+				<table>
+					<thead>
+						<tr>
+							<th width="40" class="green  bold">ID</th>
+							<th width="40" class="green  bold">优先级</th>
+							<th width="100" class="green  bold">所属栏目</th>
+							<th class="green  bold">标题</th>
+							<th width="100" class="green  bold">发布时间</th>
+							<th width="70" class="green  bold">点击</th>
+							<th width="70" class="green  bold">状态</th>
+							<th width="150" class="green  bold">操作</th>
+						</tr>
+					 </thead>
+					 <tbody>
+						<volist name="list" id="data">
+							<tr>
+								<td>{$data.item_id}</td>
+								<td>{$data.order_id}</td>
+							 	<td>{$data.category_title}</td>
+								<td>{$data.item_title}</td>
+								<td>{$data.publish_time|date="Y-m-d H:i",###}</td>
+								<td>{$data.hits}</td>
+								<td>{:item_status($data["status"])}</td>	
+								<td><a href="javascript:void(0);" class="green">审核</a> <a href="__URL__/edit/id/{$data.item_id}" class="green">编辑</a> <a href="__URL__/delete/id/{$data.item_id}" class="green">删除</a></td>
+							</tr>	
+						 </volist>
+					</tbody>
+				</table>
+			</form>
+			<div class="line"></div>
+			<a href="__URL__/add">添加文章</a>
+			<div class="line"></div>
+			<div id="changePage" class="line">
+				{$page}
+			</div>
+			<div class="line clear"></div>
+		</div>
+	</div>
+<layout name="Public:footer" cache="60" />

@@ -1,0 +1,381 @@
+[ 2011-08-26T15:48:21+08:00 ] ERR: (ThinkException) 缓存文件写入失败！:./Admin/Runtime/Cache/8036b6ce8dcda916f02254a7b19498b1.php
+[ 2011-08-26T15:48:34+08:00 ] ERR: (ThinkException) 缓存文件写入失败！:./Admin/Runtime/Cache/8036b6ce8dcda916f02254a7b19498b1.php
+[ 2011-08-26T16:08:24+08:00 ] ERR: (ThinkException) 缓存文件写入失败！:./Admin/Runtime/Cache/8036b6ce8dcda916f02254a7b19498b1.php
+[ 2011-08-26T16:08:31+08:00 ] ERR: (ThinkException) 缓存文件写入失败！:./Admin/Runtime/Cache/8036b6ce8dcda916f02254a7b19498b1.php
+[ 2011-08-26T16:08:38+08:00 ] ERR: (ThinkException) 缓存文件写入失败！:./Admin/Runtime/Cache/8036b6ce8dcda916f02254a7b19498b1.php
+[ 2011-08-26T16:08:58+08:00 ] ERR: (ThinkException) 缓存文件写入失败！:./Admin/Runtime/Cache/8036b6ce8dcda916f02254a7b19498b1.php
+[ 2011-08-26T16:09:18+08:00 ] ERR: (ThinkException) 非法操作css
+[ 2011-08-26T16:09:18+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:09:18+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:09:19+08:00 ] ERR: (ThinkException) 非法操作css
+[ 2011-08-26T16:09:19+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:09:19+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:09:19+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:09:19+08:00 ] ERR: (ThinkException) 非法操作css
+[ 2011-08-26T16:09:19+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:09:19+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:09:19+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:09:19+08:00 ] ERR: (ThinkException) 非法操作css
+[ 2011-08-26T16:09:19+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:09:19+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:09:19+08:00 ] ERR: (ThinkException) 非法操作css
+[ 2011-08-26T16:09:19+08:00 ] ERR: (ThinkException) 非法操作css
+[ 2011-08-26T16:09:19+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:09:19+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:09:45+08:00 ] ERR: (ThinkException) 非法操作css
+[ 2011-08-26T16:09:45+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:09:45+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:10:15+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:10:15+08:00 ] ERR: (ThinkException) 非法操作css
+[ 2011-08-26T16:10:15+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:10:16+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:10:16+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:10:16+08:00 ] ERR: (ThinkException) 非法操作css
+[ 2011-08-26T16:10:16+08:00 ] ERR: (ThinkException) 非法操作css
+[ 2011-08-26T16:10:16+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:10:16+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:10:16+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:10:16+08:00 ] ERR: (ThinkException) 非法操作css
+[ 2011-08-26T16:10:16+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:10:16+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:10:16+08:00 ] ERR: (ThinkException) 非法操作css
+[ 2011-08-26T16:10:16+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:10:55+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:10:55+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:10:56+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:10:56+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:10:56+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:10:56+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:10:56+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:10:56+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:19+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:19+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:20+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:20+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:20+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:20+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:20+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:20+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:27+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:27+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:29+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:29+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:29+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:29+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:30+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:30+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:30+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:30+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:30+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:30+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:30+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:30+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:30+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:30+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:31+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:31+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:31+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:31+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:32+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:32+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:33+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:33+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:33+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:33+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:33+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:33+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:33+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:33+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:33+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:11:33+08:00 ] ERR: (ThinkException) 非法操作js
+[ 2011-08-26T16:34:55+08:00 ] ERR: (ThinkException) 模板不存在[./Admin/Tpl/default/Item/index.html]
+[ 2011-08-26T18:04:58+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000744s ]
+[ 2011-08-26T18:04:58+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000123s ]
+[ 2011-08-26T18:04:58+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:11:02+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000696s ]
+[ 2011-08-26T18:11:02+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000157s ]
+[ 2011-08-26T18:11:02+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:11:03+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000665s ]
+[ 2011-08-26T18:11:03+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000169s ]
+[ 2011-08-26T18:11:03+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:11:03+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000596s ]
+[ 2011-08-26T18:11:03+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000130s ]
+[ 2011-08-26T18:11:03+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:11:03+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000665s ]
+[ 2011-08-26T18:11:03+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000171s ]
+[ 2011-08-26T18:11:03+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:11:03+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000671s ]
+[ 2011-08-26T18:11:03+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000158s ]
+[ 2011-08-26T18:11:03+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:11:03+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.001495s ]
+[ 2011-08-26T18:11:03+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000163s ]
+[ 2011-08-26T18:11:03+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:11:04+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.001053s ]
+[ 2011-08-26T18:11:04+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000159s ]
+[ 2011-08-26T18:11:04+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:11:04+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000579s ]
+[ 2011-08-26T18:11:04+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000155s ]
+[ 2011-08-26T18:11:04+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:11:15+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000587s ]
+[ 2011-08-26T18:11:15+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000127s ]
+[ 2011-08-26T18:11:15+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:11:16+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000656s ]
+[ 2011-08-26T18:11:16+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000141s ]
+[ 2011-08-26T18:11:16+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:11:16+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000647s ]
+[ 2011-08-26T18:11:16+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000143s ]
+[ 2011-08-26T18:11:16+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:11:16+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000656s ]
+[ 2011-08-26T18:11:16+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000144s ]
+[ 2011-08-26T18:11:16+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:11:16+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000589s ]
+[ 2011-08-26T18:11:16+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000066s ]
+[ 2011-08-26T18:11:16+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:11:16+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000597s ]
+[ 2011-08-26T18:11:16+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000149s ]
+[ 2011-08-26T18:11:16+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:12:51+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000580s ]
+[ 2011-08-26T18:12:51+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000087s ]
+[ 2011-08-26T18:12:51+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:12:52+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000942s ]
+[ 2011-08-26T18:12:52+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000117s ]
+[ 2011-08-26T18:12:52+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:12:52+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000851s ]
+[ 2011-08-26T18:12:52+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000078s ]
+[ 2011-08-26T18:12:52+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:12:52+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000837s ]
+[ 2011-08-26T18:12:52+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000074s ]
+[ 2011-08-26T18:12:52+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:12:52+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000589s ]
+[ 2011-08-26T18:12:52+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000070s ]
+[ 2011-08-26T18:12:52+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:12:52+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000593s ]
+[ 2011-08-26T18:12:52+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000064s ]
+[ 2011-08-26T18:12:52+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:12:52+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000808s ]
+[ 2011-08-26T18:12:52+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000069s ]
+[ 2011-08-26T18:12:52+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:12:53+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000832s ]
+[ 2011-08-26T18:12:53+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000074s ]
+[ 2011-08-26T18:12:53+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:12:53+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000571s ]
+[ 2011-08-26T18:12:53+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000140s ]
+[ 2011-08-26T18:12:53+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:12:53+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000669s ]
+[ 2011-08-26T18:12:53+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000169s ]
+[ 2011-08-26T18:12:53+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:12:53+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000573s ]
+[ 2011-08-26T18:12:53+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000073s ]
+[ 2011-08-26T18:12:53+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:12:53+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000587s ]
+[ 2011-08-26T18:12:53+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000145s ]
+[ 2011-08-26T18:12:53+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:12:53+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000624s ]
+[ 2011-08-26T18:12:53+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000148s ]
+[ 2011-08-26T18:12:53+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:12:54+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000648s ]
+[ 2011-08-26T18:12:54+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000141s ]
+[ 2011-08-26T18:12:54+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:12:54+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000578s ]
+[ 2011-08-26T18:12:54+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000067s ]
+[ 2011-08-26T18:12:54+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:18:36+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000582s ]
+[ 2011-08-26T18:18:36+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000225s ]
+[ 2011-08-26T18:18:36+08:00 ] NOTIC: [8] Undefined index: title e7b8c90d1321a1329720f2e2700cea87.php 第 26 行.
+[ 2011-08-26T18:18:36+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:18:37+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000842s ]
+[ 2011-08-26T18:18:37+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000094s ]
+[ 2011-08-26T18:18:37+08:00 ] NOTIC: [8] Undefined index: title e7b8c90d1321a1329720f2e2700cea87.php 第 26 行.
+[ 2011-08-26T18:18:37+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:18:37+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000885s ]
+[ 2011-08-26T18:18:37+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000090s ]
+[ 2011-08-26T18:18:37+08:00 ] NOTIC: [8] Undefined index: title e7b8c90d1321a1329720f2e2700cea87.php 第 26 行.
+[ 2011-08-26T18:18:37+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:18:37+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000727s ]
+[ 2011-08-26T18:18:37+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000072s ]
+[ 2011-08-26T18:18:37+08:00 ] NOTIC: [8] Undefined index: title e7b8c90d1321a1329720f2e2700cea87.php 第 26 行.
+[ 2011-08-26T18:18:37+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:18:37+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000646s ]
+[ 2011-08-26T18:18:37+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000076s ]
+[ 2011-08-26T18:18:37+08:00 ] NOTIC: [8] Undefined index: title e7b8c90d1321a1329720f2e2700cea87.php 第 26 行.
+[ 2011-08-26T18:18:37+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:18:53+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000632s ]
+[ 2011-08-26T18:18:53+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000078s ]
+[ 2011-08-26T18:18:53+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T18:23:07+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T18:23:07+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T18:23:08+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T18:23:08+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T18:23:08+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T18:23:20+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item,category` [ RunTime:0.000386s ]
+[ 2011-08-26T18:23:20+08:00 ] SQL: SELECT * FROM `leaf_item`,`category` WHERE item.category_id=category.category_id [ RunTime:0.000155s ]
+[ 2011-08-26T18:23:21+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item,category` [ RunTime:0.000772s ]
+[ 2011-08-26T18:23:21+08:00 ] SQL: SELECT * FROM `leaf_item`,`category` WHERE item.category_id=category.category_id [ RunTime:0.000122s ]
+[ 2011-08-26T18:23:22+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item,category` [ RunTime:0.000380s ]
+[ 2011-08-26T18:23:22+08:00 ] SQL: SELECT * FROM `leaf_item`,`category` WHERE item.category_id=category.category_id [ RunTime:0.000138s ]
+[ 2011-08-26T18:23:22+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item,category` [ RunTime:0.000549s ]
+[ 2011-08-26T18:23:22+08:00 ] SQL: SELECT * FROM `leaf_item`,`category` WHERE item.category_id=category.category_id [ RunTime:0.000148s ]
+[ 2011-08-26T18:23:22+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item,category` [ RunTime:0.000597s ]
+[ 2011-08-26T18:23:22+08:00 ] SQL: SELECT * FROM `leaf_item`,`category` WHERE item.category_id=category.category_id [ RunTime:0.000130s ]
+[ 2011-08-26T18:23:22+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item,category` [ RunTime:0.000401s ]
+[ 2011-08-26T18:23:22+08:00 ] SQL: SELECT * FROM `leaf_item`,`category` WHERE item.category_id=category.category_id [ RunTime:0.000115s ]
+[ 2011-08-26T18:23:22+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item,category` [ RunTime:0.000382s ]
+[ 2011-08-26T18:23:22+08:00 ] SQL: SELECT * FROM `leaf_item`,`category` WHERE item.category_id=category.category_id [ RunTime:0.000137s ]
+[ 2011-08-26T18:23:52+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T18:47:10+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T18:47:10+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T18:47:10+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T18:47:11+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T18:47:11+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T18:47:11+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T18:47:11+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T18:47:11+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T18:47:11+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T18:47:15+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T18:47:15+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T18:47:16+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T18:47:16+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T18:47:16+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T18:47:25+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.001138s ]
+[ 2011-08-26T18:47:25+08:00 ] SQL: SELECT * FROM `leaf_item` WHERE item.category_id=category.category_id [ RunTime:0.000245s ]
+[ 2011-08-26T18:47:26+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000667s ]
+[ 2011-08-26T18:47:26+08:00 ] SQL: SELECT * FROM `leaf_item` WHERE item.category_id=category.category_id [ RunTime:0.000217s ]
+[ 2011-08-26T18:47:26+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000822s ]
+[ 2011-08-26T18:47:26+08:00 ] SQL: SELECT * FROM `leaf_item` WHERE item.category_id=category.category_id [ RunTime:0.000139s ]
+[ 2011-08-26T18:47:26+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000848s ]
+[ 2011-08-26T18:47:26+08:00 ] SQL: SELECT * FROM `leaf_item` WHERE item.category_id=category.category_id [ RunTime:0.000150s ]
+[ 2011-08-26T18:47:26+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000821s ]
+[ 2011-08-26T18:47:26+08:00 ] SQL: SELECT * FROM `leaf_item` WHERE item.category_id=category.category_id [ RunTime:0.000150s ]
+[ 2011-08-26T18:47:27+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000607s ]
+[ 2011-08-26T18:47:27+08:00 ] SQL: SELECT * FROM `leaf_item` WHERE item.category_id=category.category_id [ RunTime:0.000139s ]
+[ 2011-08-26T18:47:27+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000985s ]
+[ 2011-08-26T18:47:27+08:00 ] SQL: SELECT * FROM `leaf_item` WHERE item.category_id=category.category_id [ RunTime:0.000176s ]
+[ 2011-08-26T18:47:38+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000740s ]
+[ 2011-08-26T18:47:38+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000143s ]
+[ 2011-08-26T18:47:38+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:24:31+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000899s ]
+[ 2011-08-26T19:24:31+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000106s ]
+[ 2011-08-26T19:24:31+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:24:31+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000610s ]
+[ 2011-08-26T19:24:31+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000065s ]
+[ 2011-08-26T19:24:31+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:24:32+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000602s ]
+[ 2011-08-26T19:24:32+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000140s ]
+[ 2011-08-26T19:24:32+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:24:32+08:00 ] NOTIC: [8] session_start() [<a href='function.session-start'>function.session-start</a>]: ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) ~runtime.php 第 2 行.
+[ 2011-08-26T19:24:32+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000702s ]
+[ 2011-08-26T19:24:32+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000156s ]
+[ 2011-08-26T19:24:32+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:24:32+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000600s ]
+[ 2011-08-26T19:24:32+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000140s ]
+[ 2011-08-26T19:24:32+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:24:32+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000585s ]
+[ 2011-08-26T19:24:32+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000063s ]
+[ 2011-08-26T19:24:32+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:24:32+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000730s ]
+[ 2011-08-26T19:24:32+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000068s ]
+[ 2011-08-26T19:24:32+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:26:08+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T19:26:08+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T19:26:09+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T19:26:09+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T19:26:09+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T19:26:09+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T19:26:09+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T19:26:09+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T19:26:10+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T19:26:27+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T19:26:28+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T19:26:28+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T19:26:37+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T19:26:37+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T19:26:44+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item,category` [ RunTime:0.000396s ]
+[ 2011-08-26T19:26:44+08:00 ] SQL: SELECT * FROM `leaf_item`,`category` [ RunTime:0.000121s ]
+[ 2011-08-26T19:26:44+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item,category` [ RunTime:0.000483s ]
+[ 2011-08-26T19:26:44+08:00 ] SQL: SELECT * FROM `leaf_item`,`category` [ RunTime:0.000107s ]
+[ 2011-08-26T19:26:45+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item,category` [ RunTime:0.000455s ]
+[ 2011-08-26T19:26:45+08:00 ] SQL: SELECT * FROM `leaf_item`,`category` [ RunTime:0.000179s ]
+[ 2011-08-26T19:26:45+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item,category` [ RunTime:0.000454s ]
+[ 2011-08-26T19:26:45+08:00 ] SQL: SELECT * FROM `leaf_item`,`category` [ RunTime:0.000171s ]
+[ 2011-08-26T19:26:58+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T19:26:59+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T19:29:23+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T19:29:24+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T19:29:24+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T19:29:24+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T19:29:24+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T19:29:24+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T19:29:35+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000587s ]
+[ 2011-08-26T19:29:35+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000065s ]
+[ 2011-08-26T19:29:35+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:29:35+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000895s ]
+[ 2011-08-26T19:29:35+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000086s ]
+[ 2011-08-26T19:29:35+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:29:42+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T19:29:43+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T19:29:43+08:00 ] ERR: (ThinkException) 没有定义数据库配置
+[ 2011-08-26T19:29:51+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item,category` [ RunTime:0.000506s ]
+[ 2011-08-26T19:29:51+08:00 ] SQL: SELECT * FROM `leaf_item`,`category` [ RunTime:0.000109s ]
+[ 2011-08-26T19:29:52+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item,category` [ RunTime:0.000389s ]
+[ 2011-08-26T19:29:52+08:00 ] SQL: SELECT * FROM `leaf_item`,`category` [ RunTime:0.000101s ]
+[ 2011-08-26T19:29:52+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item,category` [ RunTime:0.000462s ]
+[ 2011-08-26T19:29:52+08:00 ] SQL: SELECT * FROM `leaf_item`,`category` [ RunTime:0.000187s ]
+[ 2011-08-26T19:29:52+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item,category` [ RunTime:0.000581s ]
+[ 2011-08-26T19:29:52+08:00 ] SQL: SELECT * FROM `leaf_item`,`category` [ RunTime:0.000173s ]
+[ 2011-08-26T19:29:52+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item,category` [ RunTime:0.000468s ]
+[ 2011-08-26T19:29:52+08:00 ] SQL: SELECT * FROM `leaf_item`,`category` [ RunTime:0.000101s ]
+[ 2011-08-26T19:29:53+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item,category` [ RunTime:0.000375s ]
+[ 2011-08-26T19:29:53+08:00 ] SQL: SELECT * FROM `leaf_item`,`category` [ RunTime:0.000115s ]
+[ 2011-08-26T19:29:53+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item,category` [ RunTime:0.000391s ]
+[ 2011-08-26T19:29:53+08:00 ] SQL: SELECT * FROM `leaf_item`,`category` [ RunTime:0.000095s ]
+[ 2011-08-26T19:30:16+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item,leaf_category` [ RunTime:0.000383s ]
+[ 2011-08-26T19:30:16+08:00 ] SQL: SELECT * FROM `leaf_item`,`leaf_category` [ RunTime:0.000302s ]
+[ 2011-08-26T19:30:16+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:30:16+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:30:16+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:30:16+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:30:16+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:30:16+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:30:16+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:30:16+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:30:16+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:30:16+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:30:16+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item,leaf_category` [ RunTime:0.000451s ]
+[ 2011-08-26T19:30:16+08:00 ] SQL: SELECT * FROM `leaf_item`,`leaf_category` [ RunTime:0.000210s ]
+[ 2011-08-26T19:30:16+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:30:16+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:30:16+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:30:16+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:30:16+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:30:16+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:30:16+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:30:16+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:30:16+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:30:16+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:31:12+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000711s ]
+[ 2011-08-26T19:31:12+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000220s ]
+[ 2011-08-26T19:31:12+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:31:12+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000761s ]
+[ 2011-08-26T19:31:12+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000127s ]
+[ 2011-08-26T19:31:12+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:31:12+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000872s ]
+[ 2011-08-26T19:31:12+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000083s ]
+[ 2011-08-26T19:31:12+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:31:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000608s ]
+[ 2011-08-26T19:31:13+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000063s ]
+[ 2011-08-26T19:31:13+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:44:36+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000591s ]
+[ 2011-08-26T19:44:36+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000154s ]
+[ 2011-08-26T19:44:36+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:44:36+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000581s ]
+[ 2011-08-26T19:44:36+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000076s ]
+[ 2011-08-26T19:44:36+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:44:37+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000595s ]
+[ 2011-08-26T19:44:37+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000158s ]
+[ 2011-08-26T19:44:37+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:44:37+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000887s ]
+[ 2011-08-26T19:44:37+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000093s ]
+[ 2011-08-26T19:44:37+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.
+[ 2011-08-26T19:44:37+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000896s ]
+[ 2011-08-26T19:44:37+08:00 ] SQL: SELECT * FROM `leaf_item` [ RunTime:0.000082s ]
+[ 2011-08-26T19:44:37+08:00 ] NOTIC: [8] Use of undefined constant status - assumed 'status' e7b8c90d1321a1329720f2e2700cea87.php 第 29 行.

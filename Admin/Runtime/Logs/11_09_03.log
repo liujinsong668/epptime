@@ -1,0 +1,1259 @@
+[ 2011-09-03T12:56:11+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000608s ]
+[ 2011-09-03T12:56:11+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.013737s ]
+[ 2011-09-03T12:56:11+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.001297s ]
+[ 2011-09-03T12:56:12+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=1 LIMIT 1  [ RunTime:0.051625s ]
+[ 2011-09-03T12:56:12+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.001083s ]
+[ 2011-09-03T12:56:12+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000483s ]
+[ 2011-09-03T12:56:12+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.001485s ]
+[ 2011-09-03T12:56:12+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000303s ]
+[ 2011-09-03T12:56:12+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T12:56:12+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000856s ]
+[ 2011-09-03T12:56:12+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000292s ]
+[ 2011-09-03T12:56:12+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T12:56:12+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000874s ]
+[ 2011-09-03T12:56:12+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000294s ]
+[ 2011-09-03T12:56:12+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T12:56:12+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.001587s ]
+[ 2011-09-03T12:56:12+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=2 LIMIT 1  [ RunTime:0.000398s ]
+[ 2011-09-03T12:56:12+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000864s ]
+[ 2011-09-03T12:56:12+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000299s ]
+[ 2011-09-03T12:56:12+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000874s ]
+[ 2011-09-03T12:56:12+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000291s ]
+[ 2011-09-03T12:56:12+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T12:56:12+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000842s ]
+[ 2011-09-03T12:56:12+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000638s ]
+[ 2011-09-03T12:56:12+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T12:56:12+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.001811s ]
+[ 2011-09-03T12:56:12+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=3 LIMIT 1  [ RunTime:0.000311s ]
+[ 2011-09-03T12:56:12+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000855s ]
+[ 2011-09-03T12:56:12+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000299s ]
+[ 2011-09-03T12:56:12+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.001068s ]
+[ 2011-09-03T12:56:12+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000295s ]
+[ 2011-09-03T12:56:12+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.001745s ]
+[ 2011-09-03T12:56:12+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000397s ]
+[ 2011-09-03T12:56:12+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T12:56:12+08:00 ] NOTIC: [8] Undefined variable: tlist ef5aacde02030de23b6a00edc592530c.php 第 5 行.
+[ 2011-09-03T12:56:12+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T12:56:12+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T12:56:12+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T12:56:12+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T12:56:12+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T12:56:12+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T12:56:13+08:00 ] NOTIC: [2] Missing argument 1 for CategoryAction::edit() CategoryAction.class.php 第 58 行.
+[ 2011-09-03T12:56:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000596s ]
+[ 2011-09-03T12:56:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE category_id=1 LIMIT 1  [ RunTime:0.000275s ]
+[ 2011-09-03T12:56:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000060s ]
+[ 2011-09-03T12:56:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000664s ]
+[ 2011-09-03T12:56:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000067s ]
+[ 2011-09-03T12:56:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000418s ]
+[ 2011-09-03T12:56:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000058s ]
+[ 2011-09-03T12:56:13+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T12:56:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000397s ]
+[ 2011-09-03T12:56:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000059s ]
+[ 2011-09-03T12:56:13+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T12:56:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000403s ]
+[ 2011-09-03T12:56:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000058s ]
+[ 2011-09-03T12:56:13+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T12:56:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000390s ]
+[ 2011-09-03T12:56:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000055s ]
+[ 2011-09-03T12:56:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000386s ]
+[ 2011-09-03T12:56:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000055s ]
+[ 2011-09-03T12:56:13+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T12:56:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000389s ]
+[ 2011-09-03T12:56:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000056s ]
+[ 2011-09-03T12:56:13+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T12:56:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000385s ]
+[ 2011-09-03T12:56:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000055s ]
+[ 2011-09-03T12:56:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000383s ]
+[ 2011-09-03T12:56:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000056s ]
+[ 2011-09-03T12:56:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000370s ]
+[ 2011-09-03T12:56:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000055s ]
+[ 2011-09-03T12:56:13+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T12:59:39+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000794s ]
+[ 2011-09-03T12:59:39+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000068s ]
+[ 2011-09-03T12:59:39+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000711s ]
+[ 2011-09-03T12:59:39+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=1 LIMIT 1  [ RunTime:0.000068s ]
+[ 2011-09-03T12:59:39+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000619s ]
+[ 2011-09-03T12:59:39+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000074s ]
+[ 2011-09-03T12:59:39+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000595s ]
+[ 2011-09-03T12:59:39+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000069s ]
+[ 2011-09-03T12:59:39+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T12:59:39+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000386s ]
+[ 2011-09-03T12:59:39+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000055s ]
+[ 2011-09-03T12:59:39+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T12:59:39+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000368s ]
+[ 2011-09-03T12:59:39+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000055s ]
+[ 2011-09-03T12:59:39+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T12:59:39+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000417s ]
+[ 2011-09-03T12:59:39+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=2 LIMIT 1  [ RunTime:0.000051s ]
+[ 2011-09-03T12:59:39+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000453s ]
+[ 2011-09-03T12:59:39+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000056s ]
+[ 2011-09-03T12:59:39+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000357s ]
+[ 2011-09-03T12:59:39+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000055s ]
+[ 2011-09-03T12:59:39+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T12:59:39+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000354s ]
+[ 2011-09-03T12:59:39+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000053s ]
+[ 2011-09-03T12:59:39+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T12:59:39+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000428s ]
+[ 2011-09-03T12:59:39+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=3 LIMIT 1  [ RunTime:0.000050s ]
+[ 2011-09-03T12:59:39+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000369s ]
+[ 2011-09-03T12:59:39+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000055s ]
+[ 2011-09-03T12:59:39+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000366s ]
+[ 2011-09-03T12:59:39+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000054s ]
+[ 2011-09-03T12:59:39+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000353s ]
+[ 2011-09-03T12:59:39+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000051s ]
+[ 2011-09-03T12:59:39+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T12:59:39+08:00 ] NOTIC: [8] Undefined variable: tlist ef5aacde02030de23b6a00edc592530c.php 第 5 行.
+[ 2011-09-03T12:59:39+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T12:59:39+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T12:59:39+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T12:59:39+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T12:59:39+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T12:59:39+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T12:59:41+08:00 ] NOTIC: [2] Missing argument 1 for CategoryAction::edit() CategoryAction.class.php 第 58 行.
+[ 2011-09-03T12:59:41+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000621s ]
+[ 2011-09-03T12:59:41+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE category_id=1 LIMIT 1  [ RunTime:0.000057s ]
+[ 2011-09-03T12:59:41+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000049s ]
+[ 2011-09-03T12:59:41+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.001481s ]
+[ 2011-09-03T12:59:41+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000123s ]
+[ 2011-09-03T12:59:41+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000881s ]
+[ 2011-09-03T12:59:41+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000129s ]
+[ 2011-09-03T12:59:41+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T12:59:41+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000844s ]
+[ 2011-09-03T12:59:41+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000125s ]
+[ 2011-09-03T12:59:41+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T12:59:41+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000848s ]
+[ 2011-09-03T12:59:41+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000127s ]
+[ 2011-09-03T12:59:41+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T12:59:41+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000840s ]
+[ 2011-09-03T12:59:41+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000130s ]
+[ 2011-09-03T12:59:41+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000853s ]
+[ 2011-09-03T12:59:41+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000056s ]
+[ 2011-09-03T12:59:41+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T12:59:41+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000382s ]
+[ 2011-09-03T12:59:41+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000056s ]
+[ 2011-09-03T12:59:41+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T12:59:41+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000377s ]
+[ 2011-09-03T12:59:41+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000054s ]
+[ 2011-09-03T12:59:41+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000364s ]
+[ 2011-09-03T12:59:41+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000056s ]
+[ 2011-09-03T12:59:41+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.001090s ]
+[ 2011-09-03T12:59:41+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000142s ]
+[ 2011-09-03T12:59:41+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:07:51+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000591s ]
+[ 2011-09-03T13:07:51+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000085s ]
+[ 2011-09-03T13:07:51+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000463s ]
+[ 2011-09-03T13:07:51+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=1 LIMIT 1  [ RunTime:0.000073s ]
+[ 2011-09-03T13:07:51+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000378s ]
+[ 2011-09-03T13:07:51+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000057s ]
+[ 2011-09-03T13:07:51+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000379s ]
+[ 2011-09-03T13:07:51+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000084s ]
+[ 2011-09-03T13:07:51+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T13:07:51+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000489s ]
+[ 2011-09-03T13:07:51+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000126s ]
+[ 2011-09-03T13:07:51+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T13:07:51+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000477s ]
+[ 2011-09-03T13:07:51+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000125s ]
+[ 2011-09-03T13:07:51+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T13:07:51+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000551s ]
+[ 2011-09-03T13:07:51+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=2 LIMIT 1  [ RunTime:0.000116s ]
+[ 2011-09-03T13:07:51+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000420s ]
+[ 2011-09-03T13:07:51+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000323s ]
+[ 2011-09-03T13:07:51+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000786s ]
+[ 2011-09-03T13:07:51+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000126s ]
+[ 2011-09-03T13:07:51+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T13:07:51+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000486s ]
+[ 2011-09-03T13:07:51+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000126s ]
+[ 2011-09-03T13:07:51+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T13:07:51+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000912s ]
+[ 2011-09-03T13:07:51+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=3 LIMIT 1  [ RunTime:0.000116s ]
+[ 2011-09-03T13:07:51+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000842s ]
+[ 2011-09-03T13:07:51+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000123s ]
+[ 2011-09-03T13:07:51+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000905s ]
+[ 2011-09-03T13:07:51+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000127s ]
+[ 2011-09-03T13:07:51+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000872s ]
+[ 2011-09-03T13:07:51+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000124s ]
+[ 2011-09-03T13:07:51+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T13:07:51+08:00 ] NOTIC: [8] Undefined variable: tlist ef5aacde02030de23b6a00edc592530c.php 第 5 行.
+[ 2011-09-03T13:07:51+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T13:07:51+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T13:07:51+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T13:07:51+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T13:07:51+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T13:07:51+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T13:07:53+08:00 ] NOTIC: [2] Missing argument 1 for CategoryAction::edit() CategoryAction.class.php 第 58 行.
+[ 2011-09-03T13:07:53+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000514s ]
+[ 2011-09-03T13:07:53+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE category_id=1 LIMIT 1  [ RunTime:0.000058s ]
+[ 2011-09-03T13:07:53+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000057s ]
+[ 2011-09-03T13:07:53+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000595s ]
+[ 2011-09-03T13:07:53+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000115s ]
+[ 2011-09-03T13:07:53+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000472s ]
+[ 2011-09-03T13:07:53+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000107s ]
+[ 2011-09-03T13:07:53+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:07:53+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000675s ]
+[ 2011-09-03T13:07:53+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000079s ]
+[ 2011-09-03T13:07:53+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:07:53+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000654s ]
+[ 2011-09-03T13:07:53+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000080s ]
+[ 2011-09-03T13:07:53+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:07:53+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000608s ]
+[ 2011-09-03T13:07:53+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000073s ]
+[ 2011-09-03T13:07:53+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000533s ]
+[ 2011-09-03T13:07:53+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000057s ]
+[ 2011-09-03T13:07:53+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:07:53+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000396s ]
+[ 2011-09-03T13:07:53+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000055s ]
+[ 2011-09-03T13:07:53+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:07:53+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000376s ]
+[ 2011-09-03T13:07:53+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000055s ]
+[ 2011-09-03T13:07:53+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000358s ]
+[ 2011-09-03T13:07:53+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000055s ]
+[ 2011-09-03T13:07:53+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000362s ]
+[ 2011-09-03T13:07:53+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000073s ]
+[ 2011-09-03T13:07:53+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:08:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000530s ]
+[ 2011-09-03T13:08:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000075s ]
+[ 2011-09-03T13:08:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000582s ]
+[ 2011-09-03T13:08:13+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=1 LIMIT 1  [ RunTime:0.000068s ]
+[ 2011-09-03T13:08:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000569s ]
+[ 2011-09-03T13:08:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000079s ]
+[ 2011-09-03T13:08:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000666s ]
+[ 2011-09-03T13:08:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000070s ]
+[ 2011-09-03T13:08:13+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T13:08:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000623s ]
+[ 2011-09-03T13:08:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000071s ]
+[ 2011-09-03T13:08:13+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T13:08:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000614s ]
+[ 2011-09-03T13:08:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000076s ]
+[ 2011-09-03T13:08:13+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T13:08:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000812s ]
+[ 2011-09-03T13:08:13+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=2 LIMIT 1  [ RunTime:0.000069s ]
+[ 2011-09-03T13:08:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000646s ]
+[ 2011-09-03T13:08:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000073s ]
+[ 2011-09-03T13:08:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000640s ]
+[ 2011-09-03T13:08:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000069s ]
+[ 2011-09-03T13:08:13+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T13:08:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000440s ]
+[ 2011-09-03T13:08:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000059s ]
+[ 2011-09-03T13:08:13+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T13:08:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000552s ]
+[ 2011-09-03T13:08:13+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=3 LIMIT 1  [ RunTime:0.000068s ]
+[ 2011-09-03T13:08:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000491s ]
+[ 2011-09-03T13:08:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000055s ]
+[ 2011-09-03T13:08:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000377s ]
+[ 2011-09-03T13:08:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000056s ]
+[ 2011-09-03T13:08:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000363s ]
+[ 2011-09-03T13:08:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000058s ]
+[ 2011-09-03T13:08:13+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T13:08:13+08:00 ] NOTIC: [8] Undefined variable: tlist ef5aacde02030de23b6a00edc592530c.php 第 5 行.
+[ 2011-09-03T13:08:13+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T13:08:13+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T13:08:13+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T13:08:13+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T13:08:13+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T13:08:13+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T13:08:15+08:00 ] NOTIC: [2] Missing argument 1 for CategoryAction::edit() CategoryAction.class.php 第 58 行.
+[ 2011-09-03T13:08:15+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000602s ]
+[ 2011-09-03T13:08:15+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE category_id=1 LIMIT 1  [ RunTime:0.000086s ]
+[ 2011-09-03T13:08:15+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000082s ]
+[ 2011-09-03T13:08:15+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000704s ]
+[ 2011-09-03T13:08:15+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000103s ]
+[ 2011-09-03T13:08:15+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000357s ]
+[ 2011-09-03T13:08:15+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000099s ]
+[ 2011-09-03T13:08:15+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:08:15+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000484s ]
+[ 2011-09-03T13:08:15+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000058s ]
+[ 2011-09-03T13:08:15+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:08:15+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000562s ]
+[ 2011-09-03T13:08:15+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000057s ]
+[ 2011-09-03T13:08:15+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:08:15+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000431s ]
+[ 2011-09-03T13:08:15+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000061s ]
+[ 2011-09-03T13:08:15+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000514s ]
+[ 2011-09-03T13:08:15+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000059s ]
+[ 2011-09-03T13:08:15+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:08:15+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000485s ]
+[ 2011-09-03T13:08:15+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000130s ]
+[ 2011-09-03T13:08:15+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:08:15+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000423s ]
+[ 2011-09-03T13:08:15+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000059s ]
+[ 2011-09-03T13:08:15+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000477s ]
+[ 2011-09-03T13:08:15+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000058s ]
+[ 2011-09-03T13:08:15+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000375s ]
+[ 2011-09-03T13:08:15+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000054s ]
+[ 2011-09-03T13:08:15+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:08:19+08:00 ] NOTIC: [8] session_start() [<a href='function.session-start'>function.session-start</a>]: ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) ~runtime.php 第 2 行.
+[ 2011-09-03T13:24:55+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000516s ]
+[ 2011-09-03T13:24:55+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000111s ]
+[ 2011-09-03T13:24:55+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000476s ]
+[ 2011-09-03T13:24:55+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=1 LIMIT 1  [ RunTime:0.000090s ]
+[ 2011-09-03T13:24:55+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000421s ]
+[ 2011-09-03T13:24:55+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000055s ]
+[ 2011-09-03T13:24:55+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000355s ]
+[ 2011-09-03T13:24:55+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000058s ]
+[ 2011-09-03T13:24:55+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T13:24:55+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000354s ]
+[ 2011-09-03T13:24:55+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000054s ]
+[ 2011-09-03T13:24:55+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T13:24:55+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000416s ]
+[ 2011-09-03T13:24:55+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000110s ]
+[ 2011-09-03T13:24:55+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T13:24:55+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000559s ]
+[ 2011-09-03T13:24:55+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=2 LIMIT 1  [ RunTime:0.000102s ]
+[ 2011-09-03T13:24:55+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000490s ]
+[ 2011-09-03T13:24:55+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000078s ]
+[ 2011-09-03T13:24:55+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000414s ]
+[ 2011-09-03T13:24:55+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000075s ]
+[ 2011-09-03T13:24:55+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T13:24:55+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000484s ]
+[ 2011-09-03T13:24:55+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000074s ]
+[ 2011-09-03T13:24:55+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T13:24:55+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000515s ]
+[ 2011-09-03T13:24:55+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=3 LIMIT 1  [ RunTime:0.000070s ]
+[ 2011-09-03T13:24:55+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000442s ]
+[ 2011-09-03T13:24:55+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000084s ]
+[ 2011-09-03T13:24:55+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000436s ]
+[ 2011-09-03T13:24:55+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000075s ]
+[ 2011-09-03T13:24:55+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000436s ]
+[ 2011-09-03T13:24:55+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000072s ]
+[ 2011-09-03T13:24:55+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T13:24:55+08:00 ] NOTIC: [8] Undefined variable: tlist ef5aacde02030de23b6a00edc592530c.php 第 5 行.
+[ 2011-09-03T13:24:55+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T13:24:55+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T13:24:55+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T13:24:55+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T13:24:55+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T13:24:55+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T13:24:56+08:00 ] NOTIC: [2] Missing argument 1 for CategoryAction::edit() CategoryAction.class.php 第 58 行.
+[ 2011-09-03T13:24:56+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000653s ]
+[ 2011-09-03T13:24:56+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE category_id=1 LIMIT 1  [ RunTime:0.000059s ]
+[ 2011-09-03T13:24:56+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000056s ]
+[ 2011-09-03T13:24:56+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000392s ]
+[ 2011-09-03T13:24:56+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000055s ]
+[ 2011-09-03T13:24:56+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000357s ]
+[ 2011-09-03T13:24:56+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000055s ]
+[ 2011-09-03T13:24:56+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:24:56+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000353s ]
+[ 2011-09-03T13:24:56+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000055s ]
+[ 2011-09-03T13:24:56+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:24:56+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000359s ]
+[ 2011-09-03T13:24:56+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000146s ]
+[ 2011-09-03T13:24:56+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:24:56+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000512s ]
+[ 2011-09-03T13:24:56+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000090s ]
+[ 2011-09-03T13:24:56+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000482s ]
+[ 2011-09-03T13:24:56+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000058s ]
+[ 2011-09-03T13:24:56+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:24:56+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000522s ]
+[ 2011-09-03T13:24:56+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000058s ]
+[ 2011-09-03T13:24:56+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:24:56+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000422s ]
+[ 2011-09-03T13:24:56+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000055s ]
+[ 2011-09-03T13:24:56+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000365s ]
+[ 2011-09-03T13:24:56+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000054s ]
+[ 2011-09-03T13:24:56+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000354s ]
+[ 2011-09-03T13:24:56+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000053s ]
+[ 2011-09-03T13:24:56+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:35:48+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000579s ]
+[ 2011-09-03T13:35:48+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` LIMIT 1  [ RunTime:0.000130s ]
+[ 2011-09-03T13:35:48+08:00 ] SQL: SELECT * FROM `leaf_item` ORDER BY item_id DESC LIMIT 0,10  [ RunTime:0.000636s ]
+[ 2011-09-03T13:35:48+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000704s ]
+[ 2011-09-03T13:35:48+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE category_id=4 LIMIT 1  [ RunTime:0.000245s ]
+[ 2011-09-03T13:35:49+08:00 ] NOTIC: [2] Missing argument 1 for ItemAction::edit() ItemAction.class.php 第 60 行.
+[ 2011-09-03T13:35:49+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000580s ]
+[ 2011-09-03T13:35:49+08:00 ] SQL: SELECT * FROM `leaf_item` WHERE item_id=10 LIMIT 1  [ RunTime:0.000242s ]
+[ 2011-09-03T13:35:49+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000398s ]
+[ 2011-09-03T13:35:49+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000063s ]
+[ 2011-09-03T13:35:49+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000382s ]
+[ 2011-09-03T13:35:49+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE category_id=4 LIMIT 1  [ RunTime:0.000056s ]
+[ 2011-09-03T13:35:50+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000743s ]
+[ 2011-09-03T13:35:50+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000089s ]
+[ 2011-09-03T13:35:50+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000569s ]
+[ 2011-09-03T13:35:50+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000137s ]
+[ 2011-09-03T13:35:50+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:35:50+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000865s ]
+[ 2011-09-03T13:35:50+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000123s ]
+[ 2011-09-03T13:35:50+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:35:50+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000840s ]
+[ 2011-09-03T13:35:50+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000126s ]
+[ 2011-09-03T13:35:50+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:35:50+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000856s ]
+[ 2011-09-03T13:35:50+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000098s ]
+[ 2011-09-03T13:35:50+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000811s ]
+[ 2011-09-03T13:35:50+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000056s ]
+[ 2011-09-03T13:35:50+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:35:50+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000464s ]
+[ 2011-09-03T13:35:50+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000062s ]
+[ 2011-09-03T13:35:50+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:35:50+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000612s ]
+[ 2011-09-03T13:35:50+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000124s ]
+[ 2011-09-03T13:35:50+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000398s ]
+[ 2011-09-03T13:35:50+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000055s ]
+[ 2011-09-03T13:35:50+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000373s ]
+[ 2011-09-03T13:35:50+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000053s ]
+[ 2011-09-03T13:35:50+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:35:59+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000630s ]
+[ 2011-09-03T13:35:59+08:00 ] SQL: UPDATE `leaf_item` SET `category_id`='4',`order_id`='1',`item_title`='PHP1-CGI 进程 CPU 100% 2与 file_get_contents 函数的关系',`author`='刘金松',`publish_time`=1315028159,`keywords`='函数1',`content`='<p>有时候，运行 Nginx、PHP-CGI(php-fpm) Web服务的 Linux \r\n服务器，突然系统负载上升，使用 top 命令查看，很多  php-cgi 进程 CPU \r\n使用率接近100%。后来，我通过跟踪发现，这类情况的出现，跟 PHP 的 file_get_contents()  函数有着密切的关系。</p>\r\n<p>　　大、中型网站中，基于 HTTP 协议的 API 接口调用，是家常便饭。PHP 程序员们喜欢使用简单便捷的  \r\nfile_get_contents(\"http://example.com/\") 函数，来获取一个 URL 的返回内容，但是，如果  \r\nhttp://example.com/ 这个网站响应缓慢，file_get_contents() 就会一直卡在那儿，不会超时。</p>\r\n<p>　　我们知道，在 php.ini 中，有一个参数 max_execution_time 可以设置 PHP 脚本的最大执行时间，但是，在  \r\nphp-cgi(php-fpm) 中，该参数不会起效。真正能够控制 PHP 脚本最大执行时间的是 php-fpm.conf \r\n配置文件中的以下参数：</p>\r\n<pre><ol class=\"dp-xml\"><li class=\"alt\"><span><span>The&nbsp;timeout&nbsp;(in&nbsp;seconds)&nbsp;for&nbsp;serving&nbsp;a&nbsp;single&nbsp;request&nbsp;after&nbsp;which&nbsp;the&nbsp;worker&nbsp;process&nbsp;will&nbsp;be&nbsp;terminated&nbsp;&nbsp;&nbsp;&nbsp;</span></span></li>\r\n<li><span>Should&nbsp;be&nbsp;used&nbsp;when&nbsp;\'max_execution_time\'&nbsp;ini&nbsp;option&nbsp;does&nbsp;not&nbsp;stop&nbsp;script&nbsp;execution&nbsp;for&nbsp;some&nbsp;reason&nbsp;&nbsp;&nbsp;&nbsp;</span></li>\r\n<li class=\"alt\"><span>\'0s\'&nbsp;means&nbsp;\'off\'&nbsp;&nbsp;&nbsp;&nbsp;</span></li>\r\n<li><span><span class=\"tag\">&lt;</span><span class=\"tag-name\">value</span><span>&nbsp;</span><span class=\"attribute\">name</span><span>=</span><span class=\"attribute-value\">\"request_terminate_timeout\"</span><span class=\"tag\">&gt;</span><span>0s</span><span class=\"tag\"><!--</span--><span class=\"tag-name\">value</span><span class=\"tag\">&gt;</span><span>&nbsp;&nbsp;&nbsp;</span></span></span></li>\r\n</ol>\r\n</pre> <p>　　默认值为 0 秒，也就是说，PHP 脚本会一直执行下去。这样，当所有的 php-cgi 进程都卡在 \r\nfile_get_contents()  函数时，这台 Nginx+PHP 的 WebServer 已经无法再处理新的 PHP \r\n请求了，Nginx 将给用户返回“502 Bad  Gateway”。修改该参数，设置一个 PHP \r\n脚本最大执行时间是必要的，但是，治标不治本。例如改成 30s，如果发生 file_get_contents()  \r\n获取网页内容较慢的情况，这就意味着 150 个 php-cgi 进程，每秒钟只能处理 5 个请求，WebServer 同样很难避免“502 \r\nBad  Gateway”。</p>\r\n<p>　　要做到彻底解决，只能让 PHP 程序员们改掉直接使用 file_get_contents(\"http://example.com/\")\r\n  的习惯，而是稍微修改一下，加个超时时间，用以下方式来实现 HTTP GET 请求。要是觉得麻烦，可以自行将以下代码封装成一个函数。</p>\r\n<pre><ol class=\"dp-xml\"><li class=\"alt\"><span><span class=\"tag\"><!--?</span--><span class=\"tag-name\">php</span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span></li>\r\n<li><span>$<span class=\"attribute\">ctx</span><span>&nbsp;=&nbsp;</span><span class=\"attribute-value\">stream_context_create</span><span>(array(&nbsp;&nbsp;&nbsp;&nbsp;</span></span></li>\r\n<li class=\"alt\"><span>&nbsp;&nbsp;&nbsp;\'http\'&nbsp;=<span class=\"tag\">&gt;</span><span>&nbsp;array(&nbsp;&nbsp;&nbsp;&nbsp;</span></span></li>\r\n<li><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\'timeout\'&nbsp;=<span class=\"tag\">&gt;</span><span>&nbsp;1&nbsp;//设置一个超时时间，单位为秒&nbsp;&nbsp;&nbsp;&nbsp;</span></span></li>\r\n<li class=\"alt\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)&nbsp;&nbsp;&nbsp;&nbsp;</span></li>\r\n<li><span>&nbsp;&nbsp;&nbsp;)&nbsp;&nbsp;&nbsp;&nbsp;</span></li>\r\n<li class=\"alt\"><span>);&nbsp;&nbsp;&nbsp;&nbsp;</span></li>\r\n<li><span>file_get_contents(\"http://example.com/\",&nbsp;0,&nbsp;$ctx);&nbsp;&nbsp;&nbsp;&nbsp;</span></li>\r\n<li class=\"alt\"><span><span class=\"tag\">?&gt;</span><span>&nbsp;&nbsp;&nbsp;</span></span></li>\r\n</ol>\r\n</pre> <p>　　当然，导致 php-cgi 进程 CPU 100% 的原因不只有这一种，那么，怎么确定是 file_get_contents()  函数导致的呢?</p>\r\n<p>　　首先，使用 top 命令查看 CPU 使用率较高的 php-cgi 进程。</p>\r\n<pre><ol class=\"dp-xml\"><li class=\"alt\"><span><span>top&nbsp;-&nbsp;10:34:18&nbsp;up&nbsp;724&nbsp;days,&nbsp;21:01,&nbsp;&nbsp;3&nbsp;users,&nbsp;&nbsp;load&nbsp;average:&nbsp;17.86,&nbsp;11.16,&nbsp;7.69&nbsp;</span></span></li>\r\n<li><span>Tasks:&nbsp;561&nbsp;total,&nbsp;&nbsp;15&nbsp;running,&nbsp;546&nbsp;sleeping,&nbsp;&nbsp;&nbsp;0&nbsp;stopped,&nbsp;&nbsp;&nbsp;0&nbsp;zombie&nbsp;</span></li>\r\n<li class=\"alt\"><span>Cpu(s):&nbsp;&nbsp;5.9%us,&nbsp;&nbsp;4.2%sy,&nbsp;&nbsp;0.0%ni,&nbsp;89.4%id,&nbsp;&nbsp;0.2%wa,&nbsp;&nbsp;0.0%hi,&nbsp;&nbsp;0.2%si,&nbsp;&nbsp;0.0%st&nbsp;</span></li>\r\n<li><span>Mem:&nbsp;&nbsp;&nbsp;8100996k&nbsp;total,&nbsp;&nbsp;4320108k&nbsp;used,&nbsp;&nbsp;3780888k&nbsp;free,&nbsp;&nbsp;&nbsp;772572k&nbsp;buffers&nbsp;</span></li>\r\n<li class=\"alt\"><span>Swap:&nbsp;&nbsp;8193108k&nbsp;total,&nbsp;&nbsp;&nbsp;&nbsp;50776k&nbsp;used,&nbsp;&nbsp;8142332k&nbsp;free,&nbsp;&nbsp;&nbsp;412088k&nbsp;cached&nbsp;</span></li>\r\n<li><span>&nbsp;&nbsp;PID&nbsp;USER&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PR&nbsp;&nbsp;NI&nbsp;&nbsp;VIRT&nbsp;&nbsp;RES&nbsp;&nbsp;SHR&nbsp;S&nbsp;%CPU&nbsp;%MEM&nbsp;&nbsp;&nbsp;&nbsp;TIME+&nbsp;&nbsp;COMMAND&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></li>\r\n<li class=\"alt\"><span>10747&nbsp;www&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;18&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;360m&nbsp;&nbsp;22m&nbsp;&nbsp;12m&nbsp;R&nbsp;100.6&nbsp;0.3&nbsp;&nbsp;&nbsp;&nbsp;0:02.60&nbsp;php-cgi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></li>\r\n<li><span>10709&nbsp;www&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;359m&nbsp;&nbsp;28m&nbsp;&nbsp;17m&nbsp;R&nbsp;96.8&nbsp;&nbsp;0.4&nbsp;&nbsp;&nbsp;&nbsp;0:11.34&nbsp;php-cgi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></li>\r\n<li class=\"alt\"><span>10745&nbsp;www&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;18&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;360m&nbsp;&nbsp;24m&nbsp;&nbsp;14m&nbsp;R&nbsp;94.8&nbsp;&nbsp;0.3&nbsp;&nbsp;&nbsp;&nbsp;0:39.51&nbsp;php-cgi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></li>\r\n<li><span>10707&nbsp;www&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;18&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;360m&nbsp;&nbsp;25m&nbsp;&nbsp;14m&nbsp;S&nbsp;77.4&nbsp;&nbsp;0.3&nbsp;&nbsp;&nbsp;&nbsp;0:33.48&nbsp;php-cgi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></li>\r\n<li class=\"alt\"><span>10782&nbsp;www&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;360m&nbsp;&nbsp;26m&nbsp;&nbsp;15m&nbsp;R&nbsp;75.5&nbsp;&nbsp;0.3&nbsp;&nbsp;&nbsp;&nbsp;0:10.93&nbsp;php-cgi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></li>\r\n<li><span>10708&nbsp;www&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;360m&nbsp;&nbsp;22m&nbsp;&nbsp;12m&nbsp;R&nbsp;69.7&nbsp;&nbsp;0.3&nbsp;&nbsp;&nbsp;&nbsp;0:45.16&nbsp;php-cgi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></li>\r\n<li class=\"alt\"><span>10683&nbsp;www&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;362m&nbsp;&nbsp;28m&nbsp;&nbsp;15m&nbsp;R&nbsp;54.2&nbsp;&nbsp;0.4&nbsp;&nbsp;&nbsp;&nbsp;0:32.65&nbsp;php-cgi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></li>\r\n<li><span>10711&nbsp;www&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;360m&nbsp;&nbsp;25m&nbsp;&nbsp;15m&nbsp;R&nbsp;52.2&nbsp;&nbsp;0.3&nbsp;&nbsp;&nbsp;&nbsp;0:44.25&nbsp;php-cgi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></li>\r\n<li class=\"alt\"><span>10688&nbsp;www&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;359m&nbsp;&nbsp;25m&nbsp;&nbsp;15m&nbsp;R&nbsp;38.7&nbsp;&nbsp;0.3&nbsp;&nbsp;&nbsp;&nbsp;0:10.44&nbsp;php-cgi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></li>\r\n<li><span>10719&nbsp;www&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;360m&nbsp;&nbsp;26m&nbsp;&nbsp;16m&nbsp;R&nbsp;&nbsp;7.7&nbsp;&nbsp;0.3&nbsp;&nbsp;&nbsp;&nbsp;0:40.59&nbsp;php-cgi&nbsp;</span></li>\r\n</ol>\r\n</pre> <p>　　找其中一个 CPU 100% 的 php-cgi 进程的 PID，用以下命令跟踪一下：</p>\r\n<pre><ol class=\"dp-xml\"><li class=\"alt\"><span><span>strace&nbsp;-p&nbsp;10747&nbsp;</span></span></li>\r\n</ol>\r\n</pre> <p>　　如果屏幕显示：</p>\r\n<pre><ol class=\"dp-xml\"><li class=\"alt\"><span><span>select(7,&nbsp;[6],&nbsp;[6],&nbsp;[],&nbsp;{15,&nbsp;0})&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=&nbsp;1&nbsp;(out&nbsp;[6],&nbsp;left&nbsp;{15,&nbsp;0})&nbsp;</span></span></li>\r\n<li><span>poll([{<span class=\"attribute\">fd</span><span>=</span><span class=\"attribute-value\">6</span><span>,&nbsp;</span><span class=\"attribute\">events</span><span>=</span><span class=\"attribute-value\">POLLIN</span><span>}],&nbsp;1,&nbsp;0)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=&nbsp;0&nbsp;(Timeout)&nbsp;</span></span></li>\r\n<li class=\"alt\"><span>select(7,&nbsp;[6],&nbsp;[6],&nbsp;[],&nbsp;{15,&nbsp;0})&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=&nbsp;1&nbsp;(out&nbsp;[6],&nbsp;left&nbsp;{15,&nbsp;0})&nbsp;</span></li>\r\n<li><span>poll([{<span class=\"attribute\">fd</span><span>=</span><span class=\"attribute-value\">6</span><span>,&nbsp;</span><span class=\"attribute\">events</span><span>=</span><span class=\"attribute-value\">POLLIN</span><span>}],&nbsp;1,&nbsp;0)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=&nbsp;0&nbsp;(Timeout)&nbsp;</span></span></li>\r\n<li class=\"alt\"><span>select(7,&nbsp;[6],&nbsp;[6],&nbsp;[],&nbsp;{15,&nbsp;0})&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=&nbsp;1&nbsp;(out&nbsp;[6],&nbsp;left&nbsp;{15,&nbsp;0})&nbsp;</span></li>\r\n<li><span>poll([{<span class=\"attribute\">fd</span><span>=</span><span class=\"attribute-value\">6</span><span>,&nbsp;</span><span class=\"attribute\">events</span><span>=</span><span class=\"attribute-value\">POLLIN</span><span>}],&nbsp;1,&nbsp;0)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=&nbsp;0&nbsp;(Timeout)&nbsp;</span></span></li>\r\n<li class=\"alt\"><span>select(7,&nbsp;[6],&nbsp;[6],&nbsp;[],&nbsp;{15,&nbsp;0})&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=&nbsp;1&nbsp;(out&nbsp;[6],&nbsp;left&nbsp;{15,&nbsp;0})&nbsp;</span></li>\r\n<li><span>poll([{<span class=\"attribute\">fd</span><span>=</span><span class=\"attribute-value\">6</span><span>,&nbsp;</span><span class=\"attribute\">events</span><span>=</span><span class=\"attribute-value\">POLLIN</span><span>}],&nbsp;1,&nbsp;0)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=&nbsp;0&nbsp;(Timeout)&nbsp;</span></span></li>\r\n<li class=\"alt\"><span>select(7,&nbsp;[6],&nbsp;[6],&nbsp;[],&nbsp;{15,&nbsp;0})&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=&nbsp;1&nbsp;(out&nbsp;[6],&nbsp;left&nbsp;{15,&nbsp;0})&nbsp;</span></li>\r\n<li><span>poll([{<span class=\"attribute\">fd</span><span>=</span><span class=\"attribute-value\">6</span><span>,&nbsp;</span><span class=\"attribute\">events</span><span>=</span><span class=\"attribute-value\">POLLIN</span><span>}],&nbsp;1,&nbsp;0)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=&nbsp;0&nbsp;(Timeout)&nbsp;</span></span></li>\r\n<li class=\"alt\"><span>select(7,&nbsp;[6],&nbsp;[6],&nbsp;[],&nbsp;{15,&nbsp;0})&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=&nbsp;1&nbsp;(out&nbsp;[6],&nbsp;left&nbsp;{15,&nbsp;0})&nbsp;</span></li>\r\n<li><span>poll([{<span class=\"attribute\">fd</span><span>=</span><span class=\"attribute-value\">6</span><span>,&nbsp;</span><span class=\"attribute\">events</span><span>=</span><span class=\"attribute-value\">POLLIN</span><span>}],&nbsp;1,&nbsp;0)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=&nbsp;0&nbsp;(Timeout)&nbsp;</span></span></li>\r\n<li class=\"alt\"><span>select(7,&nbsp;[6],&nbsp;[6],&nbsp;[],&nbsp;{15,&nbsp;0})&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=&nbsp;1&nbsp;(out&nbsp;[6],&nbsp;left&nbsp;{15,&nbsp;0})&nbsp;</span></li>\r\n<li><span>poll([{<span class=\"attribute\">fd</span><span>=</span><span class=\"attribute-value\">6</span><span>,&nbsp;</span><span class=\"attribute\">events</span><span>=</span><span class=\"attribute-value\">POLLIN</span><span>}],&nbsp;1,&nbsp;0)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=&nbsp;0&nbsp;(Timeout)&nbsp;</span></span></li>\r\n<li class=\"alt\"><span>select(7,&nbsp;[6],&nbsp;[6],&nbsp;[],&nbsp;{15,&nbsp;0})&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=&nbsp;1&nbsp;(out&nbsp;[6],&nbsp;left&nbsp;{15,&nbsp;0})&nbsp;</span></li>\r\n<li><span>poll([{<span class=\"attribute\">fd</span><span>=</span><span class=\"attribute-value\">6</span><span>,&nbsp;</span><span class=\"attribute\">events</span><span>=</span><span class=\"attribute-value\">POLLIN</span><span>}],&nbsp;1,&nbsp;0)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=&nbsp;0&nbsp;(Timeout)&nbsp;</span></span></li>\r\n<li class=\"alt\"><span>select(7,&nbsp;[6],&nbsp;[6],&nbsp;[],&nbsp;{15,&nbsp;0})&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=&nbsp;1&nbsp;(out&nbsp;[6],&nbsp;left&nbsp;{15,&nbsp;0})&nbsp;</span></li>\r\n<li><span>poll([{<span class=\"attribute\">fd</span><span>=</span><span class=\"attribute-value\">6</span><span>,&nbsp;</span><span class=\"attribute\">events</span><span>=</span><span class=\"attribute-value\">POLLIN</span><span>}],&nbsp;1,&nbsp;0)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=&nbsp;0&nbsp;(Timeout)&nbsp;</span></span></li>\r\n<li class=\"alt\"><span>select(7,&nbsp;[6],&nbsp;[6],&nbsp;[],&nbsp;{15,&nbsp;0})&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=&nbsp;1&nbsp;(out&nbsp;[6],&nbsp;left&nbsp;{15,&nbsp;0})&nbsp;</span></li>\r\n<li><span>poll([{<span class=\"attribute\">fd</span><span>=</span><span class=\"attribute-value\">6</span><span>,&nbsp;</span><span class=\"attribute\">events</span><span>=</span><span class=\"attribute-value\">POLLIN</span><span>}],&nbsp;1,&nbsp;0)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=&nbsp;0&nbsp;(Timeout)&nbsp;</span></span></li>\r\n</ol>\r\n</pre> <p>　　那么，就可以确定是 file_get_contents() 导致的问题了。</p>' WHERE ( `item_id` = '10' ) [ RunTime:0.001189s ]
+[ 2011-09-03T13:36:01+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000998s ]
+[ 2011-09-03T13:36:01+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` LIMIT 1  [ RunTime:0.000167s ]
+[ 2011-09-03T13:36:01+08:00 ] SQL: SELECT * FROM `leaf_item` ORDER BY item_id DESC LIMIT 0,10  [ RunTime:0.000283s ]
+[ 2011-09-03T13:36:01+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000633s ]
+[ 2011-09-03T13:36:01+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE category_id=4 LIMIT 1  [ RunTime:0.000062s ]
+[ 2011-09-03T13:36:02+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000516s ]
+[ 2011-09-03T13:36:02+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000113s ]
+[ 2011-09-03T13:36:02+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000498s ]
+[ 2011-09-03T13:36:02+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=1 LIMIT 1  [ RunTime:0.000167s ]
+[ 2011-09-03T13:36:02+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000359s ]
+[ 2011-09-03T13:36:02+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000056s ]
+[ 2011-09-03T13:36:02+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000372s ]
+[ 2011-09-03T13:36:02+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000054s ]
+[ 2011-09-03T13:36:02+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T13:36:02+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000427s ]
+[ 2011-09-03T13:36:02+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000124s ]
+[ 2011-09-03T13:36:02+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T13:36:02+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000465s ]
+[ 2011-09-03T13:36:02+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000055s ]
+[ 2011-09-03T13:36:02+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T13:36:02+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000437s ]
+[ 2011-09-03T13:36:02+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=2 LIMIT 1  [ RunTime:0.000204s ]
+[ 2011-09-03T13:36:02+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000387s ]
+[ 2011-09-03T13:36:02+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000101s ]
+[ 2011-09-03T13:36:02+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000443s ]
+[ 2011-09-03T13:36:02+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000122s ]
+[ 2011-09-03T13:36:02+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T13:36:02+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000372s ]
+[ 2011-09-03T13:36:02+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000057s ]
+[ 2011-09-03T13:36:02+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T13:36:02+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000435s ]
+[ 2011-09-03T13:36:02+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=3 LIMIT 1  [ RunTime:0.000198s ]
+[ 2011-09-03T13:36:02+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000386s ]
+[ 2011-09-03T13:36:02+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000120s ]
+[ 2011-09-03T13:36:02+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000442s ]
+[ 2011-09-03T13:36:02+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000123s ]
+[ 2011-09-03T13:36:02+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000592s ]
+[ 2011-09-03T13:36:02+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000069s ]
+[ 2011-09-03T13:36:02+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T13:36:02+08:00 ] NOTIC: [8] Undefined variable: tlist ef5aacde02030de23b6a00edc592530c.php 第 5 行.
+[ 2011-09-03T13:36:02+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T13:36:02+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T13:36:02+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T13:36:02+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T13:36:02+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T13:36:02+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T13:36:04+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000705s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000070s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000611s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000102s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000460s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000111s ]
+[ 2011-09-03T13:36:04+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:36:04+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000646s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000078s ]
+[ 2011-09-03T13:36:04+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:36:04+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000734s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000074s ]
+[ 2011-09-03T13:36:04+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:36:04+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000643s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000134s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000629s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000128s ]
+[ 2011-09-03T13:36:04+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:36:04+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000374s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000128s ]
+[ 2011-09-03T13:36:04+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:36:04+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000614s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000126s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000476s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000055s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000385s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000053s ]
+[ 2011-09-03T13:36:04+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:36:04+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000711s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000068s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000634s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=1 LIMIT 1  [ RunTime:0.000065s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000577s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000071s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000608s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000072s ]
+[ 2011-09-03T13:36:04+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T13:36:04+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000519s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000065s ]
+[ 2011-09-03T13:36:04+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T13:36:04+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000393s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000064s ]
+[ 2011-09-03T13:36:04+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T13:36:04+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000471s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=2 LIMIT 1  [ RunTime:0.000052s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000385s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000059s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000373s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000056s ]
+[ 2011-09-03T13:36:04+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T13:36:04+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000394s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000055s ]
+[ 2011-09-03T13:36:04+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T13:36:04+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000436s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=3 LIMIT 1  [ RunTime:0.000054s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000400s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000054s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000804s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000127s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.001115s ]
+[ 2011-09-03T13:36:04+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000124s ]
+[ 2011-09-03T13:36:04+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T13:36:04+08:00 ] NOTIC: [8] Undefined variable: tlist ef5aacde02030de23b6a00edc592530c.php 第 5 行.
+[ 2011-09-03T13:36:04+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T13:36:04+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T13:36:04+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T13:36:04+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T13:36:04+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T13:36:04+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T13:36:07+08:00 ] NOTIC: [2] Missing argument 1 for CategoryAction::edit() CategoryAction.class.php 第 58 行.
+[ 2011-09-03T13:36:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000715s ]
+[ 2011-09-03T13:36:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE category_id=3 LIMIT 1  [ RunTime:0.000200s ]
+[ 2011-09-03T13:36:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000060s ]
+[ 2011-09-03T13:36:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000563s ]
+[ 2011-09-03T13:36:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000060s ]
+[ 2011-09-03T13:36:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000389s ]
+[ 2011-09-03T13:36:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000055s ]
+[ 2011-09-03T13:36:07+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:36:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000384s ]
+[ 2011-09-03T13:36:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000055s ]
+[ 2011-09-03T13:36:07+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:36:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000362s ]
+[ 2011-09-03T13:36:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000092s ]
+[ 2011-09-03T13:36:07+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:36:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000580s ]
+[ 2011-09-03T13:36:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000081s ]
+[ 2011-09-03T13:36:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000594s ]
+[ 2011-09-03T13:36:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000079s ]
+[ 2011-09-03T13:36:07+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:36:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000409s ]
+[ 2011-09-03T13:36:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000054s ]
+[ 2011-09-03T13:36:07+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T13:36:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000566s ]
+[ 2011-09-03T13:36:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000074s ]
+[ 2011-09-03T13:36:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000745s ]
+[ 2011-09-03T13:36:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000054s ]
+[ 2011-09-03T13:36:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000363s ]
+[ 2011-09-03T13:36:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000052s ]
+[ 2011-09-03T13:36:07+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:00:48+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000811s ]
+[ 2011-09-03T14:00:48+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000069s ]
+[ 2011-09-03T14:00:48+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000543s ]
+[ 2011-09-03T14:00:48+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000064s ]
+[ 2011-09-03T14:00:48+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000525s ]
+[ 2011-09-03T14:00:48+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000061s ]
+[ 2011-09-03T14:00:48+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:00:48+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000520s ]
+[ 2011-09-03T14:00:48+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000060s ]
+[ 2011-09-03T14:00:48+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:00:48+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000518s ]
+[ 2011-09-03T14:00:48+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000061s ]
+[ 2011-09-03T14:00:48+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:00:48+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000517s ]
+[ 2011-09-03T14:00:48+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000062s ]
+[ 2011-09-03T14:00:48+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000517s ]
+[ 2011-09-03T14:00:48+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000060s ]
+[ 2011-09-03T14:00:48+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:00:48+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000520s ]
+[ 2011-09-03T14:00:48+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000061s ]
+[ 2011-09-03T14:00:48+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:00:48+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000519s ]
+[ 2011-09-03T14:00:48+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000060s ]
+[ 2011-09-03T14:00:48+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000520s ]
+[ 2011-09-03T14:00:48+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000061s ]
+[ 2011-09-03T14:00:48+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000521s ]
+[ 2011-09-03T14:00:48+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000060s ]
+[ 2011-09-03T14:00:48+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:00:50+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000544s ]
+[ 2011-09-03T14:00:50+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000064s ]
+[ 2011-09-03T14:00:50+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000481s ]
+[ 2011-09-03T14:00:50+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=1 LIMIT 1  [ RunTime:0.000120s ]
+[ 2011-09-03T14:00:50+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000454s ]
+[ 2011-09-03T14:00:50+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000128s ]
+[ 2011-09-03T14:00:50+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000454s ]
+[ 2011-09-03T14:00:50+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000124s ]
+[ 2011-09-03T14:00:50+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T14:00:50+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000449s ]
+[ 2011-09-03T14:00:50+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000124s ]
+[ 2011-09-03T14:00:50+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T14:00:50+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000356s ]
+[ 2011-09-03T14:00:50+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000053s ]
+[ 2011-09-03T14:00:50+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T14:00:50+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000536s ]
+[ 2011-09-03T14:00:50+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=2 LIMIT 1  [ RunTime:0.000119s ]
+[ 2011-09-03T14:00:50+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000597s ]
+[ 2011-09-03T14:00:50+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000127s ]
+[ 2011-09-03T14:00:50+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000562s ]
+[ 2011-09-03T14:00:50+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000124s ]
+[ 2011-09-03T14:00:50+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T14:00:50+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000577s ]
+[ 2011-09-03T14:00:50+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000054s ]
+[ 2011-09-03T14:00:50+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T14:00:50+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000467s ]
+[ 2011-09-03T14:00:50+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=3 LIMIT 1  [ RunTime:0.000052s ]
+[ 2011-09-03T14:00:50+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000474s ]
+[ 2011-09-03T14:00:50+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000055s ]
+[ 2011-09-03T14:00:50+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000364s ]
+[ 2011-09-03T14:00:50+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000056s ]
+[ 2011-09-03T14:00:50+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000354s ]
+[ 2011-09-03T14:00:50+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000054s ]
+[ 2011-09-03T14:00:50+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T14:00:50+08:00 ] NOTIC: [8] Undefined variable: tlist ef5aacde02030de23b6a00edc592530c.php 第 5 行.
+[ 2011-09-03T14:00:50+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:00:50+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:00:50+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:00:50+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:00:50+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:00:50+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:00:52+08:00 ] NOTIC: [2] Missing argument 1 for CategoryAction::edit() CategoryAction.class.php 第 58 行.
+[ 2011-09-03T14:00:52+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.001236s ]
+[ 2011-09-03T14:00:52+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE category_id=3 LIMIT 1  [ RunTime:0.000127s ]
+[ 2011-09-03T14:00:52+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000118s ]
+[ 2011-09-03T14:00:52+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000682s ]
+[ 2011-09-03T14:00:52+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000087s ]
+[ 2011-09-03T14:00:52+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000464s ]
+[ 2011-09-03T14:00:52+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000058s ]
+[ 2011-09-03T14:00:52+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:00:52+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000532s ]
+[ 2011-09-03T14:00:52+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000129s ]
+[ 2011-09-03T14:00:52+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:00:52+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000984s ]
+[ 2011-09-03T14:00:52+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000128s ]
+[ 2011-09-03T14:00:52+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:00:52+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000841s ]
+[ 2011-09-03T14:00:52+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000085s ]
+[ 2011-09-03T14:00:52+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000839s ]
+[ 2011-09-03T14:00:52+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000096s ]
+[ 2011-09-03T14:00:52+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:00:52+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000354s ]
+[ 2011-09-03T14:00:52+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000054s ]
+[ 2011-09-03T14:00:52+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:00:52+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000354s ]
+[ 2011-09-03T14:00:52+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000098s ]
+[ 2011-09-03T14:00:52+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000829s ]
+[ 2011-09-03T14:00:52+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000097s ]
+[ 2011-09-03T14:00:52+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000845s ]
+[ 2011-09-03T14:00:52+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000099s ]
+[ 2011-09-03T14:00:52+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:03:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000518s ]
+[ 2011-09-03T14:03:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000110s ]
+[ 2011-09-03T14:03:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000441s ]
+[ 2011-09-03T14:03:07+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=1 LIMIT 1  [ RunTime:0.000053s ]
+[ 2011-09-03T14:03:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000357s ]
+[ 2011-09-03T14:03:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000058s ]
+[ 2011-09-03T14:03:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000356s ]
+[ 2011-09-03T14:03:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000053s ]
+[ 2011-09-03T14:03:07+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T14:03:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000357s ]
+[ 2011-09-03T14:03:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000054s ]
+[ 2011-09-03T14:03:07+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T14:03:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000360s ]
+[ 2011-09-03T14:03:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000056s ]
+[ 2011-09-03T14:03:07+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T14:03:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000416s ]
+[ 2011-09-03T14:03:07+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=2 LIMIT 1  [ RunTime:0.000051s ]
+[ 2011-09-03T14:03:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000357s ]
+[ 2011-09-03T14:03:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000054s ]
+[ 2011-09-03T14:03:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000362s ]
+[ 2011-09-03T14:03:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000055s ]
+[ 2011-09-03T14:03:07+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T14:03:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000354s ]
+[ 2011-09-03T14:03:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000052s ]
+[ 2011-09-03T14:03:07+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T14:03:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000419s ]
+[ 2011-09-03T14:03:07+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=3 LIMIT 1  [ RunTime:0.000052s ]
+[ 2011-09-03T14:03:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000356s ]
+[ 2011-09-03T14:03:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000054s ]
+[ 2011-09-03T14:03:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000355s ]
+[ 2011-09-03T14:03:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000055s ]
+[ 2011-09-03T14:03:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000353s ]
+[ 2011-09-03T14:03:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000068s ]
+[ 2011-09-03T14:03:07+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T14:03:07+08:00 ] NOTIC: [8] Undefined variable: tlist ef5aacde02030de23b6a00edc592530c.php 第 5 行.
+[ 2011-09-03T14:03:07+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:03:07+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:03:07+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:03:07+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:03:07+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:03:07+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:03:09+08:00 ] NOTIC: [2] Missing argument 1 for CategoryAction::edit() CategoryAction.class.php 第 58 行.
+[ 2011-09-03T14:03:09+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000720s ]
+[ 2011-09-03T14:03:09+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE category_id=3 LIMIT 1  [ RunTime:0.000065s ]
+[ 2011-09-03T14:03:09+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000061s ]
+[ 2011-09-03T14:03:09+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000556s ]
+[ 2011-09-03T14:03:09+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000061s ]
+[ 2011-09-03T14:03:09+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000377s ]
+[ 2011-09-03T14:03:09+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000058s ]
+[ 2011-09-03T14:03:09+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:03:09+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000390s ]
+[ 2011-09-03T14:03:09+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000059s ]
+[ 2011-09-03T14:03:09+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:03:09+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000394s ]
+[ 2011-09-03T14:03:09+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000055s ]
+[ 2011-09-03T14:03:09+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:03:09+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000436s ]
+[ 2011-09-03T14:03:09+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000059s ]
+[ 2011-09-03T14:03:09+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000389s ]
+[ 2011-09-03T14:03:09+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000077s ]
+[ 2011-09-03T14:03:09+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:03:09+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000542s ]
+[ 2011-09-03T14:03:09+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000055s ]
+[ 2011-09-03T14:03:09+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:03:09+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.009405s ]
+[ 2011-09-03T14:03:09+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000105s ]
+[ 2011-09-03T14:03:09+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000444s ]
+[ 2011-09-03T14:03:09+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000059s ]
+[ 2011-09-03T14:03:09+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000371s ]
+[ 2011-09-03T14:03:09+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000055s ]
+[ 2011-09-03T14:03:09+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:03:12+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000516s ]
+[ 2011-09-03T14:03:12+08:00 ] SQL: UPDATE `leaf_category` SET `parent_id`='0',`order_id`='1',`category_title`='视频教程1',`content`='' WHERE ( `category_id` = '3' ) [ RunTime:0.000256s ]
+[ 2011-09-03T14:03:14+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000894s ]
+[ 2011-09-03T14:03:14+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000275s ]
+[ 2011-09-03T14:03:14+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000809s ]
+[ 2011-09-03T14:03:14+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=1 LIMIT 1  [ RunTime:0.000075s ]
+[ 2011-09-03T14:03:14+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000584s ]
+[ 2011-09-03T14:03:14+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000175s ]
+[ 2011-09-03T14:03:14+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000665s ]
+[ 2011-09-03T14:03:14+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000178s ]
+[ 2011-09-03T14:03:14+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T14:03:14+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000532s ]
+[ 2011-09-03T14:03:14+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000148s ]
+[ 2011-09-03T14:03:14+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T14:03:14+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000530s ]
+[ 2011-09-03T14:03:14+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000146s ]
+[ 2011-09-03T14:03:14+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T14:03:14+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000621s ]
+[ 2011-09-03T14:03:14+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=2 LIMIT 1  [ RunTime:0.000059s ]
+[ 2011-09-03T14:03:14+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000524s ]
+[ 2011-09-03T14:03:14+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000153s ]
+[ 2011-09-03T14:03:14+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000496s ]
+[ 2011-09-03T14:03:14+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000206s ]
+[ 2011-09-03T14:03:14+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T14:03:14+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000519s ]
+[ 2011-09-03T14:03:14+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000209s ]
+[ 2011-09-03T14:03:14+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T14:03:14+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000547s ]
+[ 2011-09-03T14:03:14+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=3 LIMIT 1  [ RunTime:0.000059s ]
+[ 2011-09-03T14:03:14+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000456s ]
+[ 2011-09-03T14:03:14+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000170s ]
+[ 2011-09-03T14:03:14+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000458s ]
+[ 2011-09-03T14:03:14+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000165s ]
+[ 2011-09-03T14:03:14+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000456s ]
+[ 2011-09-03T14:03:14+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000164s ]
+[ 2011-09-03T14:03:14+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T14:03:14+08:00 ] NOTIC: [8] Undefined variable: tlist ef5aacde02030de23b6a00edc592530c.php 第 5 行.
+[ 2011-09-03T14:03:14+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:03:14+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:03:14+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:03:14+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:03:14+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:03:14+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:03:17+08:00 ] NOTIC: [2] Missing argument 1 for CategoryAction::edit() CategoryAction.class.php 第 58 行.
+[ 2011-09-03T14:03:17+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000517s ]
+[ 2011-09-03T14:03:17+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE category_id=3 LIMIT 1  [ RunTime:0.000184s ]
+[ 2011-09-03T14:03:17+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000059s ]
+[ 2011-09-03T14:03:17+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000365s ]
+[ 2011-09-03T14:03:17+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000102s ]
+[ 2011-09-03T14:03:17+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000836s ]
+[ 2011-09-03T14:03:17+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000097s ]
+[ 2011-09-03T14:03:17+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:03:17+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000804s ]
+[ 2011-09-03T14:03:17+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000054s ]
+[ 2011-09-03T14:03:17+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:03:17+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000807s ]
+[ 2011-09-03T14:03:17+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000119s ]
+[ 2011-09-03T14:03:17+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:03:17+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000867s ]
+[ 2011-09-03T14:03:17+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000099s ]
+[ 2011-09-03T14:03:17+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000658s ]
+[ 2011-09-03T14:03:17+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000119s ]
+[ 2011-09-03T14:03:17+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:03:17+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000743s ]
+[ 2011-09-03T14:03:17+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000119s ]
+[ 2011-09-03T14:03:17+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:03:17+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000837s ]
+[ 2011-09-03T14:03:17+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000119s ]
+[ 2011-09-03T14:03:17+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000687s ]
+[ 2011-09-03T14:03:17+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000099s ]
+[ 2011-09-03T14:03:17+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000843s ]
+[ 2011-09-03T14:03:17+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000125s ]
+[ 2011-09-03T14:03:17+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:03:21+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000736s ]
+[ 2011-09-03T14:03:21+08:00 ] SQL: UPDATE `leaf_category` SET `parent_id`='0',`order_id`='1',`category_title`='视频教程',`content`='' WHERE ( `category_id` = '3' ) [ RunTime:0.000284s ]
+[ 2011-09-03T14:03:23+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000991s ]
+[ 2011-09-03T14:03:23+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000348s ]
+[ 2011-09-03T14:03:23+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.001019s ]
+[ 2011-09-03T14:03:23+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=1 LIMIT 1  [ RunTime:0.000082s ]
+[ 2011-09-03T14:03:23+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000508s ]
+[ 2011-09-03T14:03:23+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000178s ]
+[ 2011-09-03T14:03:23+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000577s ]
+[ 2011-09-03T14:03:23+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000265s ]
+[ 2011-09-03T14:03:23+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T14:03:23+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000369s ]
+[ 2011-09-03T14:03:23+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000128s ]
+[ 2011-09-03T14:03:23+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T14:03:23+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000357s ]
+[ 2011-09-03T14:03:23+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000126s ]
+[ 2011-09-03T14:03:23+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T14:03:23+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000420s ]
+[ 2011-09-03T14:03:23+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=2 LIMIT 1  [ RunTime:0.000052s ]
+[ 2011-09-03T14:03:23+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000356s ]
+[ 2011-09-03T14:03:23+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000132s ]
+[ 2011-09-03T14:03:23+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000354s ]
+[ 2011-09-03T14:03:23+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000129s ]
+[ 2011-09-03T14:03:23+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T14:03:23+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000373s ]
+[ 2011-09-03T14:03:23+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000128s ]
+[ 2011-09-03T14:03:23+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T14:03:23+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000428s ]
+[ 2011-09-03T14:03:23+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=3 LIMIT 1  [ RunTime:0.000053s ]
+[ 2011-09-03T14:03:23+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000363s ]
+[ 2011-09-03T14:03:23+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000136s ]
+[ 2011-09-03T14:03:23+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000357s ]
+[ 2011-09-03T14:03:23+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000129s ]
+[ 2011-09-03T14:03:23+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000355s ]
+[ 2011-09-03T14:03:23+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000126s ]
+[ 2011-09-03T14:03:23+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 156 行.
+[ 2011-09-03T14:03:23+08:00 ] NOTIC: [8] Undefined variable: tlist ef5aacde02030de23b6a00edc592530c.php 第 5 行.
+[ 2011-09-03T14:03:23+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:03:23+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:03:23+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:03:23+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:03:23+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:03:23+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:03:46+08:00 ] NOTIC: [2] Missing argument 1 for CategoryAction::edit() CategoryAction.class.php 第 58 行.
+[ 2011-09-03T14:03:46+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000539s ]
+[ 2011-09-03T14:03:46+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE category_id=3 LIMIT 1  [ RunTime:0.000181s ]
+[ 2011-09-03T14:03:46+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000100s ]
+[ 2011-09-03T14:03:46+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000376s ]
+[ 2011-09-03T14:03:46+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000093s ]
+[ 2011-09-03T14:03:46+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000447s ]
+[ 2011-09-03T14:03:46+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000099s ]
+[ 2011-09-03T14:03:46+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:03:46+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000472s ]
+[ 2011-09-03T14:03:46+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000095s ]
+[ 2011-09-03T14:03:46+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:03:46+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000353s ]
+[ 2011-09-03T14:03:46+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000096s ]
+[ 2011-09-03T14:03:46+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:03:46+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000468s ]
+[ 2011-09-03T14:03:46+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000106s ]
+[ 2011-09-03T14:03:46+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000450s ]
+[ 2011-09-03T14:03:46+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000069s ]
+[ 2011-09-03T14:03:46+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:03:46+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000449s ]
+[ 2011-09-03T14:03:46+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000070s ]
+[ 2011-09-03T14:03:46+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:03:46+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000447s ]
+[ 2011-09-03T14:03:46+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000102s ]
+[ 2011-09-03T14:03:46+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000449s ]
+[ 2011-09-03T14:03:46+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000108s ]
+[ 2011-09-03T14:03:46+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000461s ]
+[ 2011-09-03T14:03:46+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000068s ]
+[ 2011-09-03T14:03:46+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:03:58+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000543s ]
+[ 2011-09-03T14:03:58+08:00 ] SQL: UPDATE `leaf_category` SET `parent_id`='0',`order_id`='1',`category_title`='视频教程',`content`='这个是视频教程的一些信息<br />' WHERE ( `category_id` = '3' ) [ RunTime:0.000220s ]
+[ 2011-09-03T14:04:00+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000762s ]
+[ 2011-09-03T14:04:00+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000365s ]
+[ 2011-09-03T14:04:00+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.001240s ]
+[ 2011-09-03T14:04:00+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=1 LIMIT 1  [ RunTime:0.000100s ]
+[ 2011-09-03T14:04:00+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.001045s ]
+[ 2011-09-03T14:04:00+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000331s ]
+[ 2011-09-03T14:04:00+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.001047s ]
+[ 2011-09-03T14:04:00+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000308s ]
+[ 2011-09-03T14:04:00+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:04:00+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000952s ]
+[ 2011-09-03T14:04:00+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000169s ]
+[ 2011-09-03T14:04:00+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:04:00+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000497s ]
+[ 2011-09-03T14:04:00+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000146s ]
+[ 2011-09-03T14:04:00+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:04:00+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000447s ]
+[ 2011-09-03T14:04:00+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=2 LIMIT 1  [ RunTime:0.000059s ]
+[ 2011-09-03T14:04:00+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000365s ]
+[ 2011-09-03T14:04:00+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000136s ]
+[ 2011-09-03T14:04:00+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000354s ]
+[ 2011-09-03T14:04:00+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000131s ]
+[ 2011-09-03T14:04:00+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:04:00+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000373s ]
+[ 2011-09-03T14:04:00+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000129s ]
+[ 2011-09-03T14:04:00+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:04:00+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000415s ]
+[ 2011-09-03T14:04:00+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=3 LIMIT 1  [ RunTime:0.000053s ]
+[ 2011-09-03T14:04:00+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000354s ]
+[ 2011-09-03T14:04:00+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000131s ]
+[ 2011-09-03T14:04:00+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000353s ]
+[ 2011-09-03T14:04:00+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000130s ]
+[ 2011-09-03T14:04:00+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000352s ]
+[ 2011-09-03T14:04:00+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000129s ]
+[ 2011-09-03T14:04:00+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:04:00+08:00 ] NOTIC: [8] Undefined variable: tlist ef5aacde02030de23b6a00edc592530c.php 第 5 行.
+[ 2011-09-03T14:04:00+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:04:00+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:04:00+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:04:00+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:04:00+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:04:00+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:07:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000758s ]
+[ 2011-09-03T14:07:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000163s ]
+[ 2011-09-03T14:07:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000989s ]
+[ 2011-09-03T14:07:13+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=1 LIMIT 1  [ RunTime:0.000131s ]
+[ 2011-09-03T14:07:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000556s ]
+[ 2011-09-03T14:07:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000380s ]
+[ 2011-09-03T14:07:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000648s ]
+[ 2011-09-03T14:07:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000082s ]
+[ 2011-09-03T14:07:13+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:07:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000484s ]
+[ 2011-09-03T14:07:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000059s ]
+[ 2011-09-03T14:07:13+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:07:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000392s ]
+[ 2011-09-03T14:07:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000059s ]
+[ 2011-09-03T14:07:13+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:07:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000459s ]
+[ 2011-09-03T14:07:13+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=2 LIMIT 1  [ RunTime:0.000094s ]
+[ 2011-09-03T14:07:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000816s ]
+[ 2011-09-03T14:07:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000060s ]
+[ 2011-09-03T14:07:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000394s ]
+[ 2011-09-03T14:07:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000058s ]
+[ 2011-09-03T14:07:13+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:07:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000389s ]
+[ 2011-09-03T14:07:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000058s ]
+[ 2011-09-03T14:07:13+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:07:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000458s ]
+[ 2011-09-03T14:07:13+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=3 LIMIT 1  [ RunTime:0.000094s ]
+[ 2011-09-03T14:07:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000393s ]
+[ 2011-09-03T14:07:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000058s ]
+[ 2011-09-03T14:07:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000392s ]
+[ 2011-09-03T14:07:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000059s ]
+[ 2011-09-03T14:07:13+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000390s ]
+[ 2011-09-03T14:07:13+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000058s ]
+[ 2011-09-03T14:07:13+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:07:13+08:00 ] NOTIC: [8] Undefined variable: tlist ef5aacde02030de23b6a00edc592530c.php 第 5 行.
+[ 2011-09-03T14:07:13+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:07:13+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:07:13+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:07:13+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:07:13+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:07:13+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:07:15+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.001003s ]
+[ 2011-09-03T14:07:15+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000199s ]
+[ 2011-09-03T14:07:15+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000861s ]
+[ 2011-09-03T14:07:15+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000197s ]
+[ 2011-09-03T14:07:15+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000791s ]
+[ 2011-09-03T14:07:15+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000153s ]
+[ 2011-09-03T14:07:15+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:07:15+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000857s ]
+[ 2011-09-03T14:07:15+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000147s ]
+[ 2011-09-03T14:07:15+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:07:15+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000856s ]
+[ 2011-09-03T14:07:15+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000145s ]
+[ 2011-09-03T14:07:15+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:07:15+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000825s ]
+[ 2011-09-03T14:07:15+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000172s ]
+[ 2011-09-03T14:07:15+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000669s ]
+[ 2011-09-03T14:07:15+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000144s ]
+[ 2011-09-03T14:07:15+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:07:15+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000880s ]
+[ 2011-09-03T14:07:15+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000144s ]
+[ 2011-09-03T14:07:15+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:07:15+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000895s ]
+[ 2011-09-03T14:07:15+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000146s ]
+[ 2011-09-03T14:07:15+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000852s ]
+[ 2011-09-03T14:07:15+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000151s ]
+[ 2011-09-03T14:07:15+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000853s ]
+[ 2011-09-03T14:07:15+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000132s ]
+[ 2011-09-03T14:07:15+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T14:07:16+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000529s ]
+[ 2011-09-03T14:07:16+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000063s ]
+[ 2011-09-03T14:07:16+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000496s ]
+[ 2011-09-03T14:07:16+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=1 LIMIT 1  [ RunTime:0.000092s ]
+[ 2011-09-03T14:07:16+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000354s ]
+[ 2011-09-03T14:07:16+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000056s ]
+[ 2011-09-03T14:07:16+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000354s ]
+[ 2011-09-03T14:07:16+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000055s ]
+[ 2011-09-03T14:07:16+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:07:16+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000355s ]
+[ 2011-09-03T14:07:16+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000054s ]
+[ 2011-09-03T14:07:16+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:07:16+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000354s ]
+[ 2011-09-03T14:07:16+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000053s ]
+[ 2011-09-03T14:07:16+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:07:16+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000415s ]
+[ 2011-09-03T14:07:16+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=2 LIMIT 1  [ RunTime:0.000051s ]
+[ 2011-09-03T14:07:16+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000354s ]
+[ 2011-09-03T14:07:16+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000101s ]
+[ 2011-09-03T14:07:16+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000353s ]
+[ 2011-09-03T14:07:16+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000058s ]
+[ 2011-09-03T14:07:16+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:07:16+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000423s ]
+[ 2011-09-03T14:07:16+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000052s ]
+[ 2011-09-03T14:07:16+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:07:16+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000435s ]
+[ 2011-09-03T14:07:16+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=3 LIMIT 1  [ RunTime:0.000051s ]
+[ 2011-09-03T14:07:16+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000355s ]
+[ 2011-09-03T14:07:16+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000053s ]
+[ 2011-09-03T14:07:16+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000353s ]
+[ 2011-09-03T14:07:16+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000054s ]
+[ 2011-09-03T14:07:16+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000352s ]
+[ 2011-09-03T14:07:16+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000052s ]
+[ 2011-09-03T14:07:16+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:07:16+08:00 ] NOTIC: [8] Undefined variable: tlist ef5aacde02030de23b6a00edc592530c.php 第 5 行.
+[ 2011-09-03T14:07:16+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:07:16+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:07:16+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:07:16+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:07:16+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:07:16+08:00 ] NOTIC: [8] Undefined index: itemnum ef5aacde02030de23b6a00edc592530c.php 第 36 行.
+[ 2011-09-03T14:09:35+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000700s ]
+[ 2011-09-03T14:09:35+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000069s ]
+[ 2011-09-03T14:09:35+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000618s ]
+[ 2011-09-03T14:09:35+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=1 LIMIT 1  [ RunTime:0.000059s ]
+[ 2011-09-03T14:09:35+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000532s ]
+[ 2011-09-03T14:09:35+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000063s ]
+[ 2011-09-03T14:09:35+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000539s ]
+[ 2011-09-03T14:09:35+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000070s ]
+[ 2011-09-03T14:09:35+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:09:35+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000586s ]
+[ 2011-09-03T14:09:35+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000073s ]
+[ 2011-09-03T14:09:35+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:09:35+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000686s ]
+[ 2011-09-03T14:09:35+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000065s ]
+[ 2011-09-03T14:09:35+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:09:35+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000458s ]
+[ 2011-09-03T14:09:35+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=2 LIMIT 1  [ RunTime:0.000057s ]
+[ 2011-09-03T14:09:35+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000361s ]
+[ 2011-09-03T14:09:35+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000061s ]
+[ 2011-09-03T14:09:35+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000380s ]
+[ 2011-09-03T14:09:35+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000057s ]
+[ 2011-09-03T14:09:35+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:09:35+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000691s ]
+[ 2011-09-03T14:09:35+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000145s ]
+[ 2011-09-03T14:09:35+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:09:35+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000993s ]
+[ 2011-09-03T14:09:35+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=3 LIMIT 1  [ RunTime:0.000120s ]
+[ 2011-09-03T14:09:35+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000760s ]
+[ 2011-09-03T14:09:35+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000093s ]
+[ 2011-09-03T14:09:35+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000859s ]
+[ 2011-09-03T14:09:35+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000101s ]
+[ 2011-09-03T14:09:35+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000805s ]
+[ 2011-09-03T14:09:35+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000087s ]
+[ 2011-09-03T14:09:35+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:09:35+08:00 ] NOTIC: [8] Undefined variable: tlist ef5aacde02030de23b6a00edc592530c.php 第 5 行.
+[ 2011-09-03T14:10:47+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000706s ]
+[ 2011-09-03T14:10:47+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000070s ]
+[ 2011-09-03T14:10:47+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000620s ]
+[ 2011-09-03T14:10:47+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=1 LIMIT 1  [ RunTime:0.000059s ]
+[ 2011-09-03T14:10:47+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000521s ]
+[ 2011-09-03T14:10:47+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000064s ]
+[ 2011-09-03T14:10:47+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000521s ]
+[ 2011-09-03T14:10:47+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000063s ]
+[ 2011-09-03T14:10:47+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:10:47+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000520s ]
+[ 2011-09-03T14:10:47+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000061s ]
+[ 2011-09-03T14:10:47+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:10:47+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000521s ]
+[ 2011-09-03T14:10:47+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000061s ]
+[ 2011-09-03T14:10:47+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:10:47+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000613s ]
+[ 2011-09-03T14:10:47+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=2 LIMIT 1  [ RunTime:0.000092s ]
+[ 2011-09-03T14:10:47+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000660s ]
+[ 2011-09-03T14:10:47+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000071s ]
+[ 2011-09-03T14:10:47+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000477s ]
+[ 2011-09-03T14:10:47+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000063s ]
+[ 2011-09-03T14:10:47+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:10:47+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000471s ]
+[ 2011-09-03T14:10:47+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000061s ]
+[ 2011-09-03T14:10:47+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:10:47+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000567s ]
+[ 2011-09-03T14:10:47+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=3 LIMIT 1  [ RunTime:0.000058s ]
+[ 2011-09-03T14:10:47+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000480s ]
+[ 2011-09-03T14:10:47+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000063s ]
+[ 2011-09-03T14:10:47+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000477s ]
+[ 2011-09-03T14:10:47+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000064s ]
+[ 2011-09-03T14:10:47+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000478s ]
+[ 2011-09-03T14:10:47+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000062s ]
+[ 2011-09-03T14:10:47+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:10:48+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000527s ]
+[ 2011-09-03T14:10:48+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000148s ]
+[ 2011-09-03T14:10:48+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000536s ]
+[ 2011-09-03T14:10:48+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=1 LIMIT 1  [ RunTime:0.000132s ]
+[ 2011-09-03T14:10:48+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000394s ]
+[ 2011-09-03T14:10:48+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000088s ]
+[ 2011-09-03T14:10:48+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000354s ]
+[ 2011-09-03T14:10:48+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000139s ]
+[ 2011-09-03T14:10:48+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:10:48+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000385s ]
+[ 2011-09-03T14:10:48+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000097s ]
+[ 2011-09-03T14:10:48+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:10:48+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000853s ]
+[ 2011-09-03T14:10:48+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000099s ]
+[ 2011-09-03T14:10:48+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:10:48+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000416s ]
+[ 2011-09-03T14:10:48+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=2 LIMIT 1  [ RunTime:0.000052s ]
+[ 2011-09-03T14:10:48+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000679s ]
+[ 2011-09-03T14:10:48+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000074s ]
+[ 2011-09-03T14:10:48+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000365s ]
+[ 2011-09-03T14:10:48+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000055s ]
+[ 2011-09-03T14:10:48+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:10:48+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000363s ]
+[ 2011-09-03T14:10:48+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000053s ]
+[ 2011-09-03T14:10:48+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:10:48+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000414s ]
+[ 2011-09-03T14:10:48+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=3 LIMIT 1  [ RunTime:0.000051s ]
+[ 2011-09-03T14:10:48+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000353s ]
+[ 2011-09-03T14:10:48+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000054s ]
+[ 2011-09-03T14:10:48+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000355s ]
+[ 2011-09-03T14:10:48+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000054s ]
+[ 2011-09-03T14:10:48+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000360s ]
+[ 2011-09-03T14:10:48+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000053s ]
+[ 2011-09-03T14:10:48+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() CategoryAction.class.php 第 155 行.
+[ 2011-09-03T14:12:18+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000635s ]
+[ 2011-09-03T14:12:18+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000063s ]
+[ 2011-09-03T14:12:18+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000552s ]
+[ 2011-09-03T14:12:18+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=1 LIMIT 1  [ RunTime:0.000054s ]
+[ 2011-09-03T14:12:18+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000453s ]
+[ 2011-09-03T14:12:18+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000051s ]
+[ 2011-09-03T14:12:18+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000447s ]
+[ 2011-09-03T14:12:18+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000047s ]
+[ 2011-09-03T14:12:18+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000451s ]
+[ 2011-09-03T14:12:18+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000060s ]
+[ 2011-09-03T14:12:18+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000376s ]
+[ 2011-09-03T14:12:18+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000054s ]
+[ 2011-09-03T14:12:18+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000438s ]
+[ 2011-09-03T14:12:18+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=2 LIMIT 1  [ RunTime:0.000055s ]
+[ 2011-09-03T14:12:18+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000381s ]
+[ 2011-09-03T14:12:18+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000057s ]
+[ 2011-09-03T14:12:18+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000364s ]
+[ 2011-09-03T14:12:18+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000055s ]
+[ 2011-09-03T14:12:18+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000372s ]
+[ 2011-09-03T14:12:18+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000057s ]
+[ 2011-09-03T14:12:18+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000464s ]
+[ 2011-09-03T14:12:18+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=3 LIMIT 1  [ RunTime:0.000059s ]
+[ 2011-09-03T14:12:18+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000367s ]
+[ 2011-09-03T14:12:18+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000055s ]
+[ 2011-09-03T14:12:18+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000356s ]
+[ 2011-09-03T14:12:18+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000054s ]
+[ 2011-09-03T14:12:18+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000378s ]
+[ 2011-09-03T14:12:18+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000058s ]
+[ 2011-09-03T15:41:05+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000744s ]
+[ 2011-09-03T15:41:05+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000134s ]
+[ 2011-09-03T15:41:05+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.001588s ]
+[ 2011-09-03T15:41:05+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=1 LIMIT 1  [ RunTime:0.000113s ]
+[ 2011-09-03T15:41:05+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000605s ]
+[ 2011-09-03T15:41:05+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000066s ]
+[ 2011-09-03T15:41:05+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000381s ]
+[ 2011-09-03T15:41:05+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000052s ]
+[ 2011-09-03T15:41:05+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000406s ]
+[ 2011-09-03T15:41:05+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000056s ]
+[ 2011-09-03T15:41:05+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000619s ]
+[ 2011-09-03T15:41:05+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000068s ]
+[ 2011-09-03T15:41:05+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000674s ]
+[ 2011-09-03T15:41:05+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=2 LIMIT 1  [ RunTime:0.000063s ]
+[ 2011-09-03T15:41:05+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000574s ]
+[ 2011-09-03T15:41:05+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000067s ]
+[ 2011-09-03T15:41:05+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000579s ]
+[ 2011-09-03T15:41:05+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000068s ]
+[ 2011-09-03T15:41:05+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000629s ]
+[ 2011-09-03T15:41:05+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000072s ]
+[ 2011-09-03T15:41:05+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000786s ]
+[ 2011-09-03T15:41:05+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=3 LIMIT 1  [ RunTime:0.000072s ]
+[ 2011-09-03T15:41:05+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000704s ]
+[ 2011-09-03T15:41:05+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000129s ]
+[ 2011-09-03T15:41:05+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000829s ]
+[ 2011-09-03T15:41:05+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000074s ]
+[ 2011-09-03T15:41:05+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000638s ]
+[ 2011-09-03T15:41:05+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000070s ]
+[ 2011-09-03T15:41:07+08:00 ] NOTIC: [2] Missing argument 1 for CategoryAction::edit() CategoryAction.class.php 第 58 行.
+[ 2011-09-03T15:41:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000539s ]
+[ 2011-09-03T15:41:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE category_id=2 LIMIT 1  [ RunTime:0.000338s ]
+[ 2011-09-03T15:41:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000069s ]
+[ 2011-09-03T15:41:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000763s ]
+[ 2011-09-03T15:41:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000080s ]
+[ 2011-09-03T15:41:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000709s ]
+[ 2011-09-03T15:41:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000075s ]
+[ 2011-09-03T15:41:07+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T15:41:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000651s ]
+[ 2011-09-03T15:41:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000069s ]
+[ 2011-09-03T15:41:07+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T15:41:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000590s ]
+[ 2011-09-03T15:41:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000064s ]
+[ 2011-09-03T15:41:07+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T15:41:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000564s ]
+[ 2011-09-03T15:41:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000069s ]
+[ 2011-09-03T15:41:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000617s ]
+[ 2011-09-03T15:41:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000065s ]
+[ 2011-09-03T15:41:07+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T15:41:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000564s ]
+[ 2011-09-03T15:41:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000068s ]
+[ 2011-09-03T15:41:07+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T15:41:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000618s ]
+[ 2011-09-03T15:41:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000065s ]
+[ 2011-09-03T15:41:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000581s ]
+[ 2011-09-03T15:41:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000065s ]
+[ 2011-09-03T15:41:07+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000579s ]
+[ 2011-09-03T15:41:07+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000067s ]
+[ 2011-09-03T15:41:07+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T17:18:33+08:00 ] NOTIC: [2] Missing argument 1 for CategoryAction::edit() CategoryAction.class.php 第 58 行.
+[ 2011-09-03T17:18:33+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000844s ]
+[ 2011-09-03T17:18:33+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE category_id=3 LIMIT 1  [ RunTime:0.000231s ]
+[ 2011-09-03T17:18:33+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000066s ]
+[ 2011-09-03T17:18:33+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000667s ]
+[ 2011-09-03T17:18:33+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000063s ]
+[ 2011-09-03T17:18:33+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000402s ]
+[ 2011-09-03T17:18:33+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000104s ]
+[ 2011-09-03T17:18:33+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T17:18:33+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000440s ]
+[ 2011-09-03T17:18:33+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000098s ]
+[ 2011-09-03T17:18:33+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T17:18:33+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000425s ]
+[ 2011-09-03T17:18:33+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000099s ]
+[ 2011-09-03T17:18:33+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T17:18:33+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000424s ]
+[ 2011-09-03T17:18:33+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000100s ]
+[ 2011-09-03T17:18:33+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000425s ]
+[ 2011-09-03T17:18:33+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000099s ]
+[ 2011-09-03T17:18:33+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T17:18:33+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000424s ]
+[ 2011-09-03T17:18:33+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000054s ]
+[ 2011-09-03T17:18:33+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T17:18:33+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000354s ]
+[ 2011-09-03T17:18:33+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000054s ]
+[ 2011-09-03T17:18:33+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000355s ]
+[ 2011-09-03T17:18:33+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000054s ]
+[ 2011-09-03T17:18:33+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000354s ]
+[ 2011-09-03T17:18:33+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000095s ]
+[ 2011-09-03T17:18:33+08:00 ] NOTIC: [2] Invalid argument supplied for foreach() common.php 第 32 行.
+[ 2011-09-03T17:18:37+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000536s ]
+[ 2011-09-03T17:18:37+08:00 ] SQL: UPDATE `leaf_category` SET `parent_id`='0',`order_id`='1',`category_title`='视频教程',`content`='这个是视频教程的一些信息1<br />' WHERE ( `category_id` = '3' ) [ RunTime:0.000262s ]
+[ 2011-09-03T17:18:39+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000591s ]
+[ 2011-09-03T17:18:39+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=0 [ RunTime:0.000272s ]
+[ 2011-09-03T17:18:39+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000531s ]
+[ 2011-09-03T17:18:39+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=1 LIMIT 1  [ RunTime:0.000122s ]
+[ 2011-09-03T17:18:39+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000457s ]
+[ 2011-09-03T17:18:39+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=1 [ RunTime:0.000148s ]
+[ 2011-09-03T17:18:39+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000357s ]
+[ 2011-09-03T17:18:39+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=4 [ RunTime:0.000126s ]
+[ 2011-09-03T17:18:39+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000352s ]
+[ 2011-09-03T17:18:39+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=5 [ RunTime:0.000126s ]
+[ 2011-09-03T17:18:39+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000353s ]
+[ 2011-09-03T17:18:39+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=6 [ RunTime:0.000128s ]
+[ 2011-09-03T17:18:39+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000432s ]
+[ 2011-09-03T17:18:39+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=2 LIMIT 1  [ RunTime:0.000059s ]
+[ 2011-09-03T17:18:39+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000420s ]
+[ 2011-09-03T17:18:39+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=2 [ RunTime:0.000142s ]
+[ 2011-09-03T17:18:39+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000358s ]
+[ 2011-09-03T17:18:39+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=7 [ RunTime:0.000130s ]
+[ 2011-09-03T17:18:39+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000354s ]
+[ 2011-09-03T17:18:39+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=8 [ RunTime:0.000126s ]
+[ 2011-09-03T17:18:39+08:00 ] SQL: SHOW COLUMNS FROM `leaf_item` [ RunTime:0.000443s ]
+[ 2011-09-03T17:18:39+08:00 ] SQL: SELECT COUNT(*) AS tp_count FROM `leaf_item` WHERE category_id=3 LIMIT 1  [ RunTime:0.000101s ]
+[ 2011-09-03T17:18:39+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000402s ]
+[ 2011-09-03T17:18:39+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=3 [ RunTime:0.000146s ]
+[ 2011-09-03T17:18:39+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000387s ]
+[ 2011-09-03T17:18:39+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=31 [ RunTime:0.000236s ]
+[ 2011-09-03T17:18:39+08:00 ] SQL: SHOW COLUMNS FROM `leaf_category` [ RunTime:0.000477s ]
+[ 2011-09-03T17:18:39+08:00 ] SQL: SELECT * FROM `leaf_category` WHERE parent_id=32 [ RunTime:0.000226s ]
